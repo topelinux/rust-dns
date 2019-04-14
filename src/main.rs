@@ -1,4 +1,3 @@
-// This example demonstrates use of the `FutureResolver`.
 extern crate c_ares;
 extern crate c_ares_resolver;
 extern crate futures;
@@ -7,20 +6,19 @@ extern crate tokio;
 use std::error::Error;
 
 use c_ares_resolver::{CAresFuture, FutureResolver, Options};
-use futures::future::{join_all, Future};
+use futures::future::Future;
 use futures::stream::FuturesUnordered;
-use futures::{future, Stream};
-use std::thread;
-use std::time;
+use futures::Stream;
 use std::net::Ipv4Addr;
 
-fn genRutureResolve(server: &str) -> CAresFuture<c_ares::AResults> {
+fn gen_future_resolve(server: &str) -> CAresFuture<c_ares::AResults> {
     let mut option = Options::new();
     option.set_timeout(2000);
     let resolver = FutureResolver::with_options(option).expect("Failed to create resolver");
     resolver.set_servers(&[server]).expect("Fail to set server");
     resolver.query_a("baidu.com")
 }
+
 fn main() {
     // Create resolver and make a query.
     let servers = ["8.8.8.8:53", "192.168.1.1:53"];
@@ -28,13 +26,12 @@ fn main() {
     let mut future_set = FuturesUnordered::<CAresFuture<c_ares::AResults>>::new();
 
     servers
-        .into_iter()
-        .for_each(|server| future_set.push(genRutureResolve(server)));
+        .iter()
+        .for_each(|server| future_set.push(gen_future_resolve(server)));
 
     let future = future_set
         .map_err(|e| {
             println!("dns lookup failed with error '{}'", e.description());
-            ()
         })
         .collect();
 
@@ -48,7 +45,6 @@ fn main() {
         to_show.sort();
         to_show.dedup();
         println!("to show is {:?}", to_show);
-        ()
     });
     tokio::run(task);
 }
