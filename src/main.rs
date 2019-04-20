@@ -3,9 +3,10 @@ extern crate c_ares_resolver;
 extern crate futures;
 extern crate tokio;
 extern crate yaml_rust;
+extern crate indicatif;
 
-use std::error::Error;
-
+use indicatif::ProgressBar;
+use std::sync::{Arc, Mutex};
 use std::fs::File;
 use std::net::Ipv4Addr;
 use std::io::prelude::*;
@@ -39,13 +40,19 @@ fn main() {
 
     let mut future_set = FuturesUnordered::<CAresFuture<c_ares::AResults>>::new();
 
-    //println!("{:?}", servers);
+    let count = servers.len();
+    let pb = Arc::new(Mutex::new(ProgressBar::new(count as u64)));
+    let pb1 = Arc::clone(&pb);
+
+    println!("Will Query {} servers", servers.len());
     servers
         .iter()
         .for_each(|server| future_set.push(gen_future_resolve(server)));
 
     let future = future_set
-        .then(|ret| {
+        .then(move |ret| {
+            pb1.lock().unwrap().inc(1);
+
             match ret {
                 Ok(item) => Ok(Some(item)),
                 Err(_e) => {
@@ -57,7 +64,8 @@ fn main() {
         .filter_map(|item|item)
         .collect();
 
-    let task = future.map(|items| {
+    let task = future.map(move |items| {
+        pb.lock().unwrap().finish();
         let result: Vec<c_ares::AResult> = items.iter().flat_map(|item| item.into_iter()).collect();
 
         let mut to_show = result.into_iter().map(|results| {
