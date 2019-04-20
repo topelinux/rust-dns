@@ -54,9 +54,7 @@ fn main() {
                 }
             }
         })
-        .filter_map(|item| {
-            item
-        })
+        .filter_map(|item|item)
         .collect();
 
     let task = future.map(|items| {
