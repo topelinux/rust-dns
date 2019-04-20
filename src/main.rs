@@ -1,24 +1,24 @@
 extern crate c_ares;
 extern crate c_ares_resolver;
 extern crate futures;
+extern crate getopts;
+extern crate indicatif;
 extern crate tokio;
 extern crate yaml_rust;
-extern crate indicatif;
-extern crate getopts;
 
-use std::sync::{Arc, Mutex};
-use std::fs::File;
-use std::env;
-use std::net::Ipv4Addr;
-use std::io::prelude::*;
 use c_ares_resolver::{CAresFuture, FutureResolver, Options};
 use futures::future::Future;
 use futures::stream::FuturesUnordered;
 use futures::Stream;
-use indicatif::ProgressBar;
 use getopts::Options as AppOptions;
+use indicatif::ProgressBar;
+use std::env;
+use std::fs::File;
+use std::io::prelude::*;
+use std::net::Ipv4Addr;
+use std::sync::{Arc, Mutex};
 
-use yaml_rust::{YamlLoader};
+use yaml_rust::YamlLoader;
 
 fn gen_future_resolve(server: &str, domain: &str) -> CAresFuture<c_ares::AResults> {
     let mut option = Options::new();
@@ -60,7 +60,7 @@ fn main() {
 
     let mut docs = YamlLoader::load_from_str(&s).unwrap().into_iter();
 
-    docs.next().unwrap().into_iter().for_each(|item|{
+    docs.next().unwrap().into_iter().for_each(|item| {
         let ip = String::from(item["ip"].as_str().unwrap());
         servers.push(ip);
     });
@@ -88,16 +88,17 @@ fn main() {
                 }
             }
         })
-        .filter_map(|item|item)
+        .filter_map(|item| item)
         .collect();
 
     let task = future.map(move |items| {
         pb.lock().unwrap().finish();
         let result: Vec<c_ares::AResult> = items.iter().flat_map(|item| item.into_iter()).collect();
 
-        let mut to_show = result.into_iter().map(|results| {
-            results.ipv4()
-        }).collect::<Vec<Ipv4Addr>>();
+        let mut to_show = result
+            .into_iter()
+            .map(|results| results.ipv4())
+            .collect::<Vec<Ipv4Addr>>();
 
         to_show.sort();
         to_show.dedup();
