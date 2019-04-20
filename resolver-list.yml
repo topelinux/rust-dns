@@ -1,0 +1,4397 @@
+# List of known *working* servers
+# Working server list is calculated fortnightly
+# If you'd like to add a new server, add it to resolver-list-sources.yml
+- country: US
+  ip: 152.160.81.10
+  provider: 123NET - 123.Net, Inc.
+  reverse: unknown.static.123.net
+- country: CA
+  ip: 208.79.56.204
+  provider: 295CA-TOR-ASN - FIBERNETICS CORPORATION
+  reverse: dns2.295.ca
+- country: CA
+  ip: 208.72.120.204
+  provider: 295CA-TOR-ASN - FIBERNETICS CORPORATION
+  reverse: dns1.295.ca
+- country: US
+  ip: 204.194.234.200
+  provider: 302-DIRECT-MEDIA-ASN - 302 Direct Media LLC
+  reverse: 204.194.234.200
+- country: US
+  ip: 204.194.232.200
+  provider: 302-DIRECT-MEDIA-ASN - 302 Direct Media LLC
+  reverse: 204.194.232.200
+- country: AU
+  ip: 59.100.102.254
+  provider: AAPT AAPT Limited,AU
+  reverse: 59-100-102-254.cust.static-ipl.aapt.com.au
+- country: AU
+  ip: 203.174.132.146
+  provider: AAPT AAPT Limited,AU
+  reverse: 203-174-132-146.per.static-ipl.aapt.com.au
+- country: ES
+  ip: 213.172.33.34
+  provider: ABRARED NEO-SKY 2002 Autonomous System 1
+  reverse: ns1.neo.es
+- country: ES
+  ip: 213.172.33.35
+  provider: ABRARED NEO-SKY 2002 Autonomous System 1
+  reverse: ns2.neo.es
+- country: DE
+  ip: 194.187.164.20
+  provider: ACCELERATED-IT Accelerated IT Services GmbH
+  reverse: ns1.accelerated.de
+- country: DE
+  ip: 212.66.129.98
+  provider: ACCOM NetAachen GmbH
+  reverse: dns.a1-net.de
+- country: DE
+  ip: 212.66.128.129
+  provider: ACCOM NetAachen GmbH
+  reverse: arc02.accom.a1-net.de
+- country: ES
+  ip: 86.109.100.10
+  provider: ACENS_AS acens Technologies, S.L.,ES
+  reverse: 86.109.100.10
+- country: US
+  ip: 8.15.12.5
+  provider: ACN-DIGITAL-PHONE - ACN
+  reverse: dns01.iad01.acndigital.net
+- country: US
+  ip: 8.5.244.5
+  provider: ACN-DIGITAL-PHONE - ACN
+  reverse: dns01.sjc01.acndigital.net
+- country: JP
+  ip: 218.223.68.33
+  provider: ACROSS Dream Wave Shizuoka Co. Ltd.
+  reverse: ns2.across.or.jp
+- country: US
+  ip: 24.154.1.5
+  provider: ACS-INTERNET - Armstrong Cable Services
+  reverse: ns2.zbzoom.net
+- country: RU
+  ip: 213.159.193.54
+  provider: ACSIT _Internet & Telephone Company_ private joint stock company (ITC)
+  reverse: ns.i365.ru
+- country: ES
+  ip: 91.126.242.66
+  provider: ADAMOEU-AS Adamo Telecom Iberia S.A,ES
+  reverse: cli-5b7ef242.bcn.adamo.es
+- country: ES
+  ip: 91.126.255.153
+  provider: ADAMOEU-AS Adamo Telecom Iberia S.A,ES
+  reverse: h-91-126-255-153.wholesale.adamo.es
+- country: ES
+  ip: 91.126.231.0
+  provider: ADAMOEU-AS Adamo Telecom Iberia S.A,ES
+  reverse: 91.126.231.0
+- country: DE
+  ip: 212.51.16.1
+  provider: ADDIX-AS ADDIX Internet Services GmbH
+  reverse: ns1.addix.de
+- country: DE
+  ip: 212.51.17.1
+  provider: ADDIX-AS ADDIX Internet Services GmbH
+  reverse: ns2.addix.de
+- country: US
+  ip: 205.134.162.209
+  provider: AIN - American Information Network
+  reverse: dns6.ai.net
+- country: US
+  ip: 207.190.106.225
+  provider: AIRSTREAMCOMM-NET - Airstream Communications, LLC,US
+  reverse: dhcp-106-225.richec.mwt.net
+- country: BR
+  ip: 177.69.13.129
+  provider: ALGAR TELECOM S/A,BR
+  reverse: 177-069-013-129.static.ctbctelecom.com.br
+- country: FR
+  ip: 91.194.178.5
+  provider: ALIONIS Alionis
+  reverse: gon.avencall.com
+- country: BR
+  ip: 179.124.32.19
+  provider: ALOG SOLUCOES DE TECNOLOGIA EM INFORMATICA S.A.,BR
+  reverse: 19.32.124.179.static.sp2.alog.com.br
+- country: US
+  ip: 208.78.24.238
+  provider: AMC - Atlantic Metro Communications
+  reverse: dns1.nyc.dns-roots.net
+- country: US
+  ip: 69.60.160.203
+  provider: AMERICA - Access America
+  reverse: edelta2.dadns.america.net
+- country: FR
+  ip: 164.2.255.241
+  provider: APHP-AS Assistance Publique-Hopitaux de Paris
+  reverse: gw-aphp.ap-hop-paris.fr
+- country: US
+  ip: 63.238.52.1
+  provider: API-DIGITAL - API Digital Communications Group, LLC
+  reverse: ns1.api-digital.com
+- country: US
+  ip: 63.238.52.2
+  provider: API-DIGITAL - API Digital Communications Group, LLC
+  reverse: ns2.api-digital.com
+- country: US
+  ip: 66.112.235.200
+  provider: APOGEE-TELECOM - Apogee Telecom Inc.
+  reverse: ns4.apogeenet.net
+- country: TW
+  ip: 218.187.240.50
+  provider: APOL-AS Asia Pacific On-line Service Inc.,TW
+  reverse: 218-187-240-50.tinp.dynamic.apol.com.tw
+- country: FR
+  ip: 213.244.5.67
+  provider: AS-COMPLETEL COMPLETEL SAS France
+  reverse: dns2.amitel.fr
+- country: US
+  ip: 64.136.52.73
+  provider: AS-NETZERO - Netzero,INC.
+  reverse: vgs-dns.vgs.untd.com
+- country: US
+  ip: 209.252.33.101
+  provider: AS-PAETEC-NET - PaeTec Communications, Inc.
+  reverse: dnscache-01-chi.paetec.net
+- country: US
+  ip: 66.206.13.8
+  provider: AS-TIER - Tierpoint, LLC,US
+  reverse: 66-206-13-8.e-insites.com
+- country: US
+  ip: 66.206.15.16
+  provider: AS-TIER - Tierpoint, LLC,US
+  reverse: mta.nertanna-dianeracy.com
+- country: US
+  ip: 204.97.212.10
+  provider: AS1239 SprintLink Global Network
+  reverse: ns3.sprintlink.net
+- country: US
+  ip: 204.117.214.10
+  provider: AS1239 SprintLink Global Network
+  reverse: ns1.sprintlink.net
+- country: US
+  ip: 199.2.252.10
+  provider: AS1239 SprintLink Global Network
+  reverse: ns2.sprintlink.net
+- country: US
+  ip: 216.37.1.19
+  provider: AS17054 - CONTINENTAL BROADBAND PENNSYLVANIA, INC.
+  reverse: ns1.nframe.com
+- country: GB
+  ip: 81.187.191.93
+  provider: AS20712 Andrews & Arnold Ltd,GB
+  reverse: 93.191.187.81.in-addr.arpa
+- country: GB
+  ip: 217.18.90.105
+  provider: AS29054 NSE Global ASN
+  reverse: smtp2.junkscreen.com
+- country: GB
+  ip: 217.18.80.105
+  provider: AS29054 NSE Global ASN
+  reverse: mx-clust1.junkscreen.com
+- country: FR
+  ip: 193.252.247.52
+  provider: AS3215 Orange S.A.
+  reverse: ns1.usei-strasbourg.net
+- country: FR
+  ip: 194.2.0.20
+  provider: AS3215 Orange S.A.
+  reverse: ns-cache0.oleane.net
+- country: FR
+  ip: 194.250.223.1
+  provider: AS3215 Orange S.A.
+  reverse: ns1.cs3i.fr
+- country: FR
+  ip: 193.252.247.53
+  provider: AS3215 Orange S.A.
+  reverse: ns2.usei-strasbourg.net
+- country: FR
+  ip: 194.2.0.50
+  provider: AS3215 Orange S.A.
+  reverse: ns-cache1.oleane.net
+- country: FR
+  ip: 194.51.149.1
+  provider: AS3215 Orange S.A.
+  reverse: golgoth.inlandsys.com
+- country: FR
+  ip: 193.248.38.234
+  provider: AS3215 Orange S.A.,FR
+  reverse: lcaen-656-1-172-234.w193-248.abo.wanadoo.fr
+- country: ES
+  ip: 193.148.29.103
+  provider: AS3324_FUJITSU_SPAIN FUJITSU TECHNOLOGY SOLUTIONS, S.A.
+  reverse: ns1.fujitsu.es
+- country: ES
+  ip: 193.148.29.100
+  provider: AS3324_FUJITSU_SPAIN FUJITSU TECHNOLOGY SOLUTIONS, S.A.
+  reverse: ns.fujitsu.es
+- country: US
+  ip: 74.117.59.235
+  provider: AS40676 - Psychz Networks,US
+  reverse: mx1.qiuzhimen.com
+- country: GB
+  ip: 195.224.180.238
+  provider: AS5413 Daisy Communications Ltd
+  reverse: newtoro.pncl.co.uk
+- country: GB
+  ip: 195.147.8.154
+  provider: AS5413 Daisy Communications Ltd,GB
+  reverse: 195.147.8.154
+- country: GB
+  ip: 176.35.14.148
+  provider: AS5413 Daisy Communications Ltd,GB
+  reverse: 176-35-14-148.xdsl.murphx.net
+- country: GB
+  ip: 89.145.196.208
+  provider: AS5413 Daisy Communications Ltd,GB
+  reverse: 89-145-196-208.xdsl.murphx.net
+- country: GB
+  ip: 109.170.155.254
+  provider: AS5413 Daisy Communications Ltd,GB
+  reverse: 109-170-155-254.xdsl.murphx.net
+- country: GB
+  ip: 77.44.2.104
+  provider: AS5413 Daisy Communications Ltd,GB
+  reverse: 77-44-2-104.xdsl.business-dsl.co.uk
+- country: US
+  ip: 213.68.194.51
+  provider: AS702 Verizon Business EMEA - Commercial IP service provider in Europe
+  reverse: 213.68.194.51
+- country: US
+  ip: 158.43.128.72
+  provider: AS702 Verizon Business EMEA - Commercial IP service provider in Europe
+  reverse: cache0000.ns.eu.uu.net
+- country: US
+  ip: 158.43.192.1
+  provider: AS702 Verizon Business EMEA - Commercial IP service provider in Europe
+  reverse: cache0003.ns.eu.uu.net
+- country: US
+  ip: 193.101.111.20
+  provider: AS702 Verizon Business EMEA - Commercial IP service provider in Europe
+  reverse: cache0703.ns.eu.uu.net
+- country: US
+  ip: 62.22.102.5
+  provider: AS702 Verizon Business EMEA - Commercial IP service provider in Europe
+  reverse: dns.lidera.com
+- country: US
+  ip: 194.98.65.65
+  provider: AS702 Verizon Business EMEA - Commercial IP service provider in Europe
+  reverse: cache0300.ns.eu.uu.net
+- country: US
+  ip: 194.7.1.4
+  provider: AS702 Verizon Business EMEA - Commercial IP service provider in Europe
+  reverse: cache0100.ns.eu.uu.net
+- country: US
+  ip: 194.98.65.165
+  provider: AS702 Verizon Business EMEA - Commercial IP service provider in Europe
+  reverse: cache0101.ns.eu.uu.net
+- country: US
+  ip: 158.43.240.4
+  provider: AS702 Verizon Business EMEA - Commercial IP service provider in Europe
+  reverse: cache0004.ns.eu.uu.net
+- country: US
+  ip: 158.43.240.3
+  provider: AS702 Verizon Business EMEA - Commercial IP service provider in Europe
+  reverse: cache0005a.ns.eu.uu.net
+- country: US
+  ip: 62.22.102.6
+  provider: AS702 Verizon Business EMEA - Commercial IP service provider in Europe
+  reverse: dns2.lidera.com
+- country: US
+  ip: 158.43.128.1
+  provider: AS702 Verizon Business EMEA - Commercial IP service provider in Europe
+  reverse: cache0002.ns.eu.uu.net
+- country: US
+  ip: 193.101.111.10
+  provider: AS702 Verizon Business EMEA - Commercial IP service provider in Europe
+  reverse: cache0702.ns.eu.uu.net
+- country: FR
+  ip: 212.37.208.3
+  provider: AS8784 Prosodie
+  reverse: ns3.internet-fr.net
+- country: FR
+  ip: 212.37.208.4
+  provider: AS8784 Prosodie
+  reverse: ns4.internet-fr.net
+- country: ES
+  ip: 213.151.109.1
+  provider: ASALPI Orange Catalunya Xarxes de Telecomunicacions S.A.
+  reverse: ns1.coac.net
+- country: CA
+  ip: 72.10.131.52
+  provider: ASB2B2C - B2B2C Inc,CA
+  reverse: dsl-10-131-52.b2b2c.ca
+- country: ES
+  ip: 77.241.112.24
+  provider: ASEPRESA EPRESA ENERGIA S.A.U.
+  reverse: dns2.epresa.com
+- country: ES
+  ip: 77.241.112.23
+  provider: ASEPRESA EPRESA ENERGIA S.A.U.
+  reverse: dns1.epresa.com
+- country: DE
+  ip: 217.69.160.18
+  provider: ASGHOSTNET GHOSTnet GmbH
+  reverse: ns.ghostnet.de
+- country: DE
+  ip: 217.69.169.25
+  provider: ASGHOSTNET GHOSTnet GmbH
+  reverse: dns.sectoor.de
+- country: RU
+  ip: 62.183.109.34
+  provider: ASI-AS OJSC Rostelecom
+  reverse: medusa.astranet.ru
+- country: RU
+  ip: 62.183.104.12
+  provider: ASI-AS OJSC Rostelecom
+  reverse: ns.astranet.ru
+- country: SG
+  ip: 121.52.206.130
+  provider: ASIASOFT-AS-AP Asiasoft Online Pte Ltd
+  reverse: ns2.asiasoftsea.net
+- country: RU
+  ip: 81.95.128.218
+  provider: ASN-AVANTEL-MSK Avantel, Close Joint Stock Company
+  reverse: ns1.matrixtelecom.ru
+- country: RU
+  ip: 81.95.138.218
+  provider: ASN-AVANTEL-MSK Avantel, Close Joint Stock Company
+  reverse: synchro.matrixtelecom.net
+- country: PL
+  ip: 212.33.86.185
+  provider: ASN-BIAMAN-EDU Politechnika Bialostocka,PL
+  reverse: 212.33.86.185
+- country: US
+  ip: 24.248.137.39
+  provider: ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc.
+  reverse: ns1.mm.at.cox.net
+- country: US
+  ip: 68.105.29.12
+  provider: ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc.
+  reverse: cdns7.cox.net
+- country: US
+  ip: 68.105.29.11
+  provider: ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc.
+  reverse: cdns6.cox.net
+- country: US
+  ip: 68.7.77.127
+  provider: ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc.,US
+  reverse: ip68-7-77-127.sd.sd.cox.net
+- country: US
+  ip: 216.52.129.1
+  provider: ASN-INTERNAP-BLK - Internap Network Services Corporation
+  reverse: ns1.chi.pnap.net
+- country: US
+  ip: 216.52.129.33
+  provider: ASN-INTERNAP-BLK - Internap Network Services Corporation
+  reverse: ns2.chi.pnap.net
+- country: FR
+  ip: 62.212.100.193
+  provider: ASN-NERIM Nerim SAS,FR
+  reverse: sggl.paris.pck.nerim.net
+- country: FR
+  ip: 82.216.111.122
+  provider: ASN-NUMERICABLE NUMERICABLE is a cable network operator in France, offering
+    TV,VOICE and Internet services
+  reverse: res2.tech.numericable.fr
+- country: US
+  ip: 205.171.2.25
+  provider: ASN-QWEST-US NOVARTIS-DMZ-US
+  reverse: resolver.qwest.net
+- country: US
+  ip: 205.171.3.65
+  provider: ASN-QWEST-US NOVARTIS-DMZ-US
+  reverse: resolver1.qwest.net
+- country: US
+  ip: 205.171.2.65
+  provider: ASN-QWEST-US NOVARTIS-DMZ-US
+  reverse: resolver.qwest.net
+- country: US
+  ip: 205.171.3.25
+  provider: ASN-QWEST-US NOVARTIS-DMZ-US
+  reverse: redirect1.qwest.net
+- country: GB
+  ip: 217.16.223.30
+  provider: ASN-SCOTNET Scotnet
+  reverse: dns0.scotnet.net
+- country: RU
+  ip: 213.158.0.16
+  provider: ASN-SPBNIT OJSC Rostelecom
+  reverse: ns2.spbtlg.ru
+- country: AU
+  ip: 203.50.2.71
+  provider: ASN-TELSTRA Telstra Pty Ltd
+  reverse: lon-resolver.telstra.net
+- country: AU
+  ip: 139.130.4.4
+  provider: ASN-TELSTRA Telstra Pty Ltd
+  reverse: uneeda.telstra.net
+- country: AU
+  ip: 120.151.240.35
+  provider: ASN-TELSTRA Telstra Pty Ltd,AU
+  reverse: nashan.lnk.telstra.net
+- country: AU
+  ip: 120.151.46.19
+  provider: ASN-TELSTRA Telstra Pty Ltd,AU
+  reverse: aur1016865.lnk.telstra.net
+- country: AU
+  ip: 124.187.122.208
+  provider: ASN-TELSTRA Telstra Pty Ltd,AU
+  reverse: cpe-124-187-122-208.lns1.woo.bigpond.net.au
+- country: AU
+  ip: 110.143.125.229
+  provider: ASN-TELSTRA Telstra Pty Ltd,AU
+  reverse: aldasp.lnk.telstra.net
+- country: AU
+  ip: 120.151.233.132
+  provider: ASN-TELSTRA Telstra Pty Ltd,AU
+  reverse: clarej.lnk.telstra.net
+- country: AU
+  ip: 60.225.26.2
+  provider: ASN-TELSTRA Telstra Pty Ltd,AU
+  reverse: cpe-60-225-26-2.home33.cht.bigpond.net.au
+- country: AU
+  ip: 124.190.41.227
+  provider: ASN-TELSTRA Telstra Pty Ltd,AU
+  reverse: cpe-124-190-41-227.syqa1.lon.bigpond.net.au
+- country: AU
+  ip: 165.228.82.99
+  provider: ASN-TELSTRA Telstra Pty Ltd,AU
+  reverse: michae73.lnk.telstra.net
+- country: AU
+  ip: 110.143.95.28
+  provider: ASN-TELSTRA Telstra Pty Ltd,AU
+  reverse: madiso16.lnk.telstra.net
+- country: AU
+  ip: 101.178.98.97
+  provider: ASN-TELSTRA Telstra Pty Ltd,AU
+  reverse: 101.178.98.97
+- country: AU
+  ip: 101.161.49.170
+  provider: ASN-TELSTRA Telstra Pty Ltd,AU
+  reverse: 101.161.49.170
+- country: CA
+  ip: 205.236.148.131
+  provider: ASN01-SOGE - SOGETEL INC
+  reverse: galilee2.sogetel.net
+- country: CA
+  ip: 205.236.148.130
+  provider: ASN01-SOGE - SOGETEL INC
+  reverse: galilee1.sogetel.net
+- country: CA
+  ip: 208.38.1.15
+  provider: ASN852 - TELUS Communications Inc.
+  reverse: ns2.pason.net
+- country: CA
+  ip: 173.183.139.204
+  provider: ASN852 - TELUS Communications Inc.,CA
+  reverse: s173-183-139-204.ab.hsia.telus.net
+- country: CA
+  ip: 207.6.55.95
+  provider: ASN852 - TELUS Communications Inc.,CA
+  reverse: d207-6-55-95.bchsia.telus.net
+- country: CH
+  ip: 91.138.126.128
+  provider: ASTBSUHR Technische Betriebe Suhr
+  reverse: ns1.ziknet.ch
+- country: RU
+  ip: 83.142.9.30
+  provider: ASTRAKHAN-TELECOM-AS OOO Production-Commercial Company Astrakhan-Telecom
+  reverse: ns.astelecom.ru
+- country: ES
+  ip: 212.36.64.16
+  provider: AS_ADAM OGIC Informatica S.L. - ADAM Internet
+  reverse: dns1.adam.es
+- country: US
+  ip: 209.183.48.21
+  provider: AT&T Wireless Service
+  reverse: ns2.mymmode.com
+- country: US
+  ip: 209.183.52.21
+  provider: AT&T Wireless Service
+  reverse: ns3.mymmode.com
+- country: RU
+  ip: 78.159.224.224
+  provider: ATEL-AS OJSC _Vimpelcom_
+  reverse: ns1.atelperm.ru
+- country: PL
+  ip: 77.223.243.28
+  provider: ATOL-AS Atol sp z o.o.
+  reverse: ns1.atol.com.pl
+- country: PL
+  ip: 217.8.180.98
+  provider: ATOMNET GTS Poland Sp. z o.o.
+  reverse: tornado.webtech.pl
+- country: US
+  ip: 12.127.16.67
+  provider: ATT-INTERNET4 - AT&T Services, Inc.
+  reverse: rmtu.mt.rs.els-gms.att.net
+- country: US
+  ip: 12.127.17.72
+  provider: ATT-INTERNET4 - AT&T Services, Inc.
+  reverse: dns-rs2.bgtmo.ip.att.net
+- country: US
+  ip: 206.13.30.12
+  provider: ATT-INTERNET4 - AT&T Services, Inc.
+  reverse: dns1.sndgca.sbcglobal.net
+- country: US
+  ip: 206.13.31.12
+  provider: ATT-INTERNET4 - AT&T Services, Inc.
+  reverse: dns1.scrmca.sbcglobal.net
+- country: US
+  ip: 206.13.28.12
+  provider: ATT-INTERNET4 - AT&T Services, Inc.
+  reverse: dns1.snfcca.sbcglobal.net
+- country: US
+  ip: 206.13.29.12
+  provider: ATT-INTERNET4 - AT&T Services, Inc.
+  reverse: dns1.lsanca.sbcglobal.net
+- country: US
+  ip: 12.127.17.71
+  provider: ATT-INTERNET4 - AT&T Services, Inc.
+  reverse: dns-rs1.bgtmo.ip.att.net
+- country: US
+  ip: 74.235.147.86
+  provider: ATT-INTERNET4 - AT&T Services, Inc.,US
+  reverse: adsl-74-235-147-86.clt.bellsouth.net
+- country: US
+  ip: 12.18.123.159
+  provider: ATT-INTERNET4 - AT&T Services, Inc.,US
+  reverse: 12.18.123.159
+- country: US
+  ip: 68.121.17.240
+  provider: ATT-INTERNET4 - AT&T Services, Inc.,US
+  reverse: adsl-68-121-17-240.dsl.irvnca.pacbell.net
+- country: US
+  ip: 104.187.168.86
+  provider: ATT-INTERNET4 - AT&T Services, Inc.,US
+  reverse: 104.187.168.86
+- country: US
+  ip: 99.167.114.78
+  provider: ATT-INTERNET4 - AT&T Services, Inc.,US
+  reverse: adsl-99-167-114-78.dsl.ksc2mo.sbcglobal.net
+- country: RU
+  ip: 95.128.246.2
+  provider: AVK-COM-AS AVK-Computer Ltd
+  reverse: ns.avk-com.ru
+- country: MX
+  ip: 207.248.224.72
+  provider: Alestra, S. de R.L. de C.V.
+  reverse: dns-cache-mty2.alestra.net.mx
+- country: MX
+  ip: 200.76.5.147
+  provider: Alestra, S. de R.L. de C.V.
+  reverse: static-200-76-5-147.alestra.net.mx
+- country: MX
+  ip: 207.248.224.71
+  provider: Alestra, S. de R.L. de C.V.
+  reverse: dns-cache-mty1.alestra.net.mx
+- country: MX
+  ip: 207.248.224.73
+  provider: Alestra, S. de R.L. de C.V.
+  reverse: dns-cache-mty3.alestra.net.mx
+- country: ES
+  ip: 195.5.64.2
+  provider: Arrakis, Servicios y comunicaciones, S.L.
+  reverse: ns1.landsraad.net
+- country: ES
+  ip: 212.59.199.6
+  provider: Arrakis, Servicios y comunicaciones, S.L.
+  reverse: ns4.landsraad.net
+- country: CA
+  ip: 207.164.234.193
+  provider: BACOM - Bell Canada
+  reverse: toroon63dnsvp1.srvr.bell.ca
+- country: CA
+  ip: 207.164.234.129
+  provider: BACOM - Bell Canada
+  reverse: mtrlpq02dnsvp1.srvr.bell.ca
+- country: CA
+  ip: 65.95.222.56
+  provider: BACOM - Bell Canada,CA
+  reverse: 65.95.222.56
+- country: CA
+  ip: 76.66.208.194
+  provider: BACOM - Bell Canada,CA
+  reverse: 76.66.208.194
+- country: CA
+  ip: 76.65.243.38
+  provider: BACOM - Bell Canada,CA
+  reverse: 76.65.243.38
+- country: CA
+  ip: 70.28.94.239
+  provider: BACOM - Bell Canada,CA
+  reverse: 70.28.94.239
+- country: RU
+  ip: 188.168.31.154
+  provider: BAIKALTRANSTELECOM Closed Joint Stock Company TransTeleCom,RU
+  reverse: 188.168.31.154
+- country: US
+  ip: 69.51.76.26
+  provider: BCI - Blackfoot Telephone Cooperative, Inc.
+  reverse: cns1.cutcom.net
+- country: US
+  ip: 154.58.74.71
+  provider: BCUBE-AS Hyperoptic Ltd,GB
+  reverse: 154.58.74.71.bcube.co.uk
+- country: AU
+  ip: 103.238.195.226
+  provider: BEACHHEADGROUP-AS-AP Beachhead Group Pty. Ltd.,AU
+  reverse: 103.238.195.226
+- country: US
+  ip: 205.152.37.23
+  provider: BELLSOUTH-NET-BLK - BellSouth.net Inc.
+  reverse: dns.asm.bellsouth.net
+- country: US
+  ip: 205.152.6.20
+  provider: BELLSOUTH-NET-BLK - BellSouth.net Inc.
+  reverse: ns.eng.bellsouth.net
+- country: RU
+  ip: 82.151.97.245
+  provider: BELSVYAZ-AS OJSC Rostelecom,RU
+  reverse: ns.shebekino.ru
+- country: EU
+  ip: 134.60.1.111
+  provider: BELWUE Landeshochschulnetz Baden-Wuerttemberg (BelWue)
+  reverse: dns.rz.uni-ulm.de
+- country: DE
+  ip: 141.70.99.94
+  provider: BELWUE Universitaet Stuttgart,DE
+  reverse: 141.70.99.94
+- country: DE
+  ip: 141.70.99.146
+  provider: BELWUE Universitaet Stuttgart,DE
+  reverse: 141.70.99.146
+- country: RU
+  ip: 194.190.67.133
+  provider: BESTLINE-NET-PROTVINO Bestline Ltd,RU
+  reverse: 194.190.67.133
+- country: IL
+  ip: 81.218.119.11
+  provider: BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone
+  reverse: bzq-218-119-11.red.bezeqint.net
+- country: US
+  ip: 216.185.192.1
+  provider: BHI-AS1 - BHI Advanced Internet Inc.
+  reverse: ns1.bhi.com
+- country: US
+  ip: 216.185.192.2
+  provider: BHI-AS1 - BHI Advanced Internet Inc.
+  reverse: ns2.bhi.com
+- country: CA
+  ip: 142.217.35.216
+  provider: BNQ-1 - Telebec,CA
+  reverse: 142-217-35-216.telebecinternet.net
+- country: KR
+  ip: 164.124.107.9
+  provider: BORANET-KR, LG DACOM Corporation
+  reverse: cns2.bora.net
+- country: KR
+  ip: 203.248.252.2
+  provider: BORANET-KR, LG DACOM Corporation
+  reverse: cns3.bora.net
+- country: KR
+  ip: 164.124.101.2
+  provider: BORANET-KR, LG DACOM Corporation
+  reverse: ns.dacom.co.kr
+- country: GB
+  ip: 217.78.80.70
+  provider: BORWOOD-UK-AS Borwood UK Network
+  reverse: ns1.borwood.net
+- country: BR
+  ip: 177.152.185.165
+  provider: BRASIL DIGITAL TELECOMUNICACOES LTDA,BR
+  reverse: 177-152-185-165.brdigital.net.br
+- country: US
+  ip: 69.146.17.3
+  provider: BRESNAN-AS - Bresnan Communications, LLC.
+  reverse: mslmt002dns.ext.bresnan.net
+- country: US
+  ip: 64.135.1.20
+  provider: BROADBANDONE - BroadbandONE, Inc.
+  reverse: dns1.host.net
+- country: GB
+  ip: 193.201.185.2
+  provider: BROOKLANDCOMP-AS Brookland Computer Services Limited
+  reverse: ns3.brookcom.net
+- country: FR
+  ip: 212.73.209.34
+  provider: BSOCOM BSO Network Solutions SAS
+  reverse: ns1.bsocom.com
+- country: GB
+  ip: 195.182.110.132
+  provider: BT British Telecommunications plc
+  reverse: dns-fra.de.ignite.net
+- country: NL
+  ip: 192.237.125.2
+  provider: BT-INFONET-EUROPE British Telecommunications plc
+  reverse: dns1.info.net
+- country: GB
+  ip: 81.149.179.13
+  provider: BT-UK-AS BT Public Internet Service,GB
+  reverse: host81-149-179-13.in-addr.btopenworld.com
+- country: GB
+  ip: 81.148.110.206
+  provider: BT-UK-AS BT Public Internet Service,GB
+  reverse: host81-148-110-206.in-addr.btopenworld.com
+- country: GB
+  ip: 81.133.30.105
+  provider: BT-UK-AS BT Public Internet Service,GB
+  reverse: host81-133-30-105.in-addr.btopenworld.com
+- country: GB
+  ip: 194.73.96.50
+  provider: BT-UK-AS BTnet UK Regional network
+  reverse: ns1.bull.co.uk
+- country: BR
+  ip: 189.74.143.163
+  provider: Brasil Telecom S/A - Filial Distrito Federal,BR
+  reverse: 189-74-143-163.gnale700.e.brasiltelecom.net.br
+- country: BR
+  ip: 201.40.40.253
+  provider: Brasil Telecom S/A - Filial Distrito Federal,BR
+  reverse: 201-40-40-253.cbace700.t.brasiltelecom.net.br
+- country: GB
+  ip: 194.1.148.1
+  provider: C2C-AS C2C Limited
+  reverse: lon-cr01-sov.c2cvoip.co.uk
+- country: CA
+  ip: 137.207.250.52
+  provider: CA-WEDNET - WEDnet,CA
+  reverse: ns2.csdecso.on.ca
+- country: US
+  ip: 24.45.97.166
+  provider: CABLE-NET-1 - Cablevision Systems Corp.,US
+  reverse: ool-182d61a6.dyn.optonline.net
+- country: US
+  ip: 69.113.60.188
+  provider: CABLE-NET-1 - Cablevision Systems Corp.,US
+  reverse: ool-45713cbc.dyn.optonline.net
+- country: US
+  ip: 24.45.16.176
+  provider: CABLE-NET-1 - Cablevision Systems Corp.,US
+  reverse: ool-182d10b0.dyn.optonline.net
+- country: ES
+  ip: 89.29.162.95
+  provider: CABLEWORLD-AS Televideo Novelda S.A. (Unipersonal),ES
+  reverse: 89.29.162.95.novelda.cableworld.es
+- country: CA
+  ip: 142.163.134.224
+  provider: CANET-ASN-4 - Bell Aliant Regional Communications, Inc.,CA
+  reverse: sydnns0114w-142163134224.dhcp-dynamic.fibreop.ns.bellaliant.net
+- country: ES
+  ip: 85.238.5.5
+  provider: CARTAGON Cartagon AS41721
+  reverse: ns1.cartagon.net
+- country: GE
+  ip: 85.114.231.182
+  provider: CAUCASUS-CABLE-SYSTEM Caucasus Online Ltd.,GE
+  reverse: host-85-114-231-182.customer.co.ge
+- country: CA
+  ip: 74.120.5.205
+  provider: CC-ASN1 - Commstream Communications Inc,CA
+  reverse: 74.120.5.205
+- country: FR
+  ip: 195.68.195.68
+  provider: CCI-PARIS Chambre de commerce et d_Industrie de Paris
+  reverse: ns1.ccip.fr
+- country: US
+  ip: 205.242.187.234
+  provider: CDM - CDM
+  reverse: dns1.primary.net
+- country: RU
+  ip: 93.157.233.3
+  provider: CDMS OOO Creative Direct Marketing Solutions
+  reverse: mail.lubertsi.net
+- country: DE
+  ip: 217.30.49.100
+  provider: CENTAUR-GMBH-AS CENTAUR GmbH Internet Service Provider
+  reverse: ns1.as29145.net
+- country: US
+  ip: 65.130.35.241
+  provider: CENTURYLINK-US-LEGACY-QWEST - Qwest Communications Company, LLC,US
+  reverse: 65-130-35-241.slkc.qwest.net
+- country: US
+  ip: 97.117.26.158
+  provider: CENTURYLINK-US-LEGACY-QWEST - Qwest Communications Company, LLC,US
+  reverse: 97-117-26-158.slkc.qwest.net
+- country: US
+  ip: 206.81.147.1
+  provider: CENTURYLINK-US-LEGACY-QWEST - Qwest Communications Company, LLC,US
+  reverse: 206.81.147.1
+- country: US
+  ip: 63.153.9.243
+  provider: CENTURYLINK-US-LEGACY-QWEST - Qwest Communications Company, LLC,US
+  reverse: 63-153-9-243.blng.qwest.net
+- country: CN
+  ip: 61.163.252.30
+  provider: CHINA169-BACKBONE CNCGROUP China169 Backbone
+  reverse: hn.ly.kd.adsl
+- country: CN
+  ip: 114.110.79.113
+  provider: CHINA169-BACKBONE CNCGROUP China169 Backbone,CN
+  reverse: 114.110.79.113
+- country: CN
+  ip: 111.164.87.69
+  provider: CHINA169-BACKBONE CNCGROUP China169 Backbone,CN
+  reverse: dns69.online.tj.cn
+- country: CN
+  ip: 123.190.139.167
+  provider: CHINA169-BACKBONE CNCGROUP China169 Backbone,CN
+  reverse: 123.190.139.167
+- country: CN
+  ip: 119.186.136.211
+  provider: CHINA169-BACKBONE CNCGROUP China169 Backbone,CN
+  reverse: 119.186.136.211
+- country: CN
+  ip: 114.114.114.114
+  provider: CHINANET-BACKBONE No.31,Jin-rong Street
+  reverse: public1.114dns.com
+- country: CN
+  ip: 61.139.54.66
+  provider: CHINANET-BACKBONE No.31,Jin-rong Street
+  reverse: 61.139.54.66
+- country: CN
+  ip: 110.153.109.254
+  provider: CHINANET-BACKBONE No.31,Jin-rong Street,CN
+  reverse: 110.153.109.254
+- country: CN
+  ip: 118.250.139.226
+  provider: CHINANET-BACKBONE No.31,Jin-rong Street,CN
+  reverse: 118.250.139.226
+- country: CN
+  ip: 221.235.104.55
+  provider: CHINANET-BACKBONE No.31,Jin-rong Street,CN
+  reverse: 221.235.104.55
+- country: CN
+  ip: 113.122.176.59
+  provider: CHINANET-BACKBONE No.31,Jin-rong Street,CN
+  reverse: 113.122.176.59
+- country: CN
+  ip: 59.40.50.200
+  provider: CHINANET-BACKBONE No.31,Jin-rong Street,CN
+  reverse: 200.50.40.59.broad.sz.gd.dynamic.163data.com.cn
+- country: CA
+  ip: 104.243.109.164
+  provider: CIKTELECOM-CABLE - CIK Telecom INC,CA
+  reverse: 104.243.109.164
+- country: BR
+  ip: 186.224.177.243
+  provider: CILNET Comunicacao e Informatica LTDA.,BR
+  reverse: 186-224-177-243.metroethernet.dynamic.fst.sp.faster.net.br
+- country: CA
+  ip: 66.51.128.241
+  provider: CIPHERKEY - Cipherkey Exchange Corp.
+  reverse: ns5.dns.aebc.com
+- country: CA
+  ip: 209.53.200.2
+  provider: CIPHERKEY - Cipherkey Exchange Corp.
+  reverse: ns1.dns.aebc.com
+- country: CA
+  ip: 66.51.128.240
+  provider: CIPHERKEY - Cipherkey Exchange Corp.
+  reverse: ns4.dns.aebc.com
+- country: CA
+  ip: 64.66.17.27
+  provider: CIPHERKEY - Cipherkey Exchange Corp.,CA
+  reverse: 64.66.17.27.qz-dhcp.cipherkey.net
+- country: US
+  ip: 148.84.30.6
+  provider: CITY-UNIVERSITY-OF-NEW-YORK - City University of New York
+  reverse: ns2.lehman.cuny.edu
+- country: US
+  ip: 64.181.43.34
+  provider: CITYNET - CityNet
+  reverse: ns1.mypcstv.com
+- country: US
+  ip: 66.118.80.4
+  provider: CITYNET - CityNet
+  reverse: ns1.wvinternetservices.com
+- country: GB
+  ip: 212.6.140.65
+  provider: CLARANET-AS ClaraNET LTD
+  reverse: ns0.cnt.net
+- country: GB
+  ip: 212.66.0.1
+  provider: CLARANET-AS ClaraNET LTD
+  reverse: resolver4.de.clara.net
+- country: GB
+  ip: 212.82.225.12
+  provider: CLARANET-AS ClaraNET LTD
+  reverse: resolver2.de.clara.net
+- country: GB
+  ip: 212.66.1.1
+  provider: CLARANET-AS ClaraNET LTD
+  reverse: resolver3.de.clara.net
+- country: GB
+  ip: 212.82.226.212
+  provider: CLARANET-AS ClaraNET LTD
+  reverse: resolver1.de.clara.net
+- country: GB
+  ip: 195.170.97.254
+  provider: CLARANET-AS ClaraNET LTD
+  reverse: resolver5.de.clara.net
+- country: GB
+  ip: 212.82.225.7
+  provider: CLARANET-AS ClaraNET LTD
+  reverse: resolver0.de.clara.net
+- country: GB
+  ip: 195.170.96.2
+  provider: CLARANET-AS ClaraNET LTD
+  reverse: resolver6.de.clara.net
+- country: US
+  ip: 75.94.255.12
+  provider: CLEARWIRE - CLEAR WIRELESS LLC
+  reverse: 75-94-255-12.gar.clearwire-wmx.net
+- country: US
+  ip: 64.13.115.12
+  provider: CLEARWIRE - CLEAR WIRELESS LLC
+  reverse: 64.13.115.12
+- country: US
+  ip: 64.13.48.12
+  provider: CLEARWIRE - CLEAR WIRELESS LLC
+  reverse: 64-13-48-12.war.clearwire-dns.net
+- country: US
+  ip: 75.148.155.17
+  provider: CMCS - Comcast Cable Communications, Inc.,US
+  reverse: acthouston.com
+- country: US
+  ip: 174.50.178.70
+  provider: CMCS - Comcast Cable Communications, Inc.,US
+  reverse: c-174-50-178-70.hsd1.ca.comcast.net
+- country: CN
+  ip: 183.209.233.193
+  provider: CMNET-JIANGSU-AP China Mobile communications corporation,CN
+  reverse: 183.209.233.193
+- country: CN
+  ip: 183.203.164.146
+  provider: CMNET-SHANXI-AP China Mobile communications corporation
+  reverse: 183.203.164.146
+- country: CN
+  ip: 211.161.192.73
+  provider: CNIX-AP China Networks Inter-Exchange
+  reverse: dns2.gwbnsh.net.cn
+- country: CN
+  ip: 219.233.241.166
+  provider: CNNIC-CN-COLNET Oriental Cable Network Co., Ltd.
+  reverse: zj-ns1.cableplus.com.cn
+- country: CN
+  ip: 203.119.25.4
+  provider: CNNIC-CRITICAL-AP China Internet Network Infomation Center
+  reverse: a.cnnic.cn
+- country: US
+  ip: 216.152.64.199
+  provider: COGENT Cogent/PSI
+  reverse: ns1.webchat.org
+- country: US
+  ip: 66.28.0.45
+  provider: COGENT Cogent/PSI
+  reverse: res1.dns.cogentco.com
+- country: US
+  ip: 66.28.0.61
+  provider: COGENT Cogent/PSI
+  reverse: res2.dns.cogentco.com
+- country: EU
+  ip: 82.129.73.176
+  provider: COGENT-174 - Cogent Communications,US
+  reverse: 82.129.73.176
+- country: EU
+  ip: 82.129.75.60
+  provider: COGENT-174 - Cogent Communications,US
+  reverse: 82.129.75.60
+- country: US
+  ip: 206.123.64.245
+  provider: COLO4 - Colo4, LLC
+  reverse: ns1.colo4dallas.net
+- country: US
+  ip: 66.207.160.111
+  provider: COLOGUYS - ColoGuys, Inc.
+  reverse: 111.160.207.66.in-addr.arpa
+- country: GB
+  ip: 213.27.209.8
+  provider: COLT COLT Technology Services Group Limited
+  reverse: ns.drac.net
+- country: GB
+  ip: 62.97.84.4
+  provider: COLT COLT Technology Services Group Limited
+  reverse: dash.futurnet.es
+- country: GB
+  ip: 213.27.209.53
+  provider: COLT COLT Technology Services Group Limited
+  reverse: ns0.drac.net
+- country: AT
+  ip: 213.185.191.225
+  provider: COLT COLT Technology Services Group Limited,GB
+  reverse: 213.185.191.225
+- country: RU
+  ip: 82.138.44.220
+  provider: COMCOR-AS OJSC Comcor,RU
+  reverse: 82.138.44.220
+- country: RU
+  ip: 86.109.211.42
+  provider: COMLINE-AS PJSC MegaFon,RU
+  reverse: 42.211.kam-telecom.ru
+- country: US
+  ip: 66.203.72.10
+  provider: COMMRAIL - Access Northeast Inc.
+  reverse: ns2.axsne.net
+- country: US
+  ip: 68.66.111.68
+  provider: COMMUNIGROUP - TEC of Jackson, Inc.,US
+  reverse: 68.66.111.68
+- country: CA
+  ip: 192.154.144.218
+  provider: CONCORDE - Concorde inc.,CA
+  reverse: ip192-154-144-218.vif.net
+- country: CA
+  ip: 192.154.149.163
+  provider: CONCORDE - Concorde inc.,CA
+  reverse: ip192-154-149-163.vif.net
+- country: CA
+  ip: 192.154.146.196
+  provider: CONCORDE - Concorde inc.,CA
+  reverse: ip192-154-146-196.vif.net
+- country: RU
+  ip: 195.14.50.21
+  provider: CORBINA-AS OJSC _Vimpelcom_
+  reverse: earth.corbina.net
+- country: DE
+  ip: 82.199.140.51
+  provider: CORE-BACKBONE Core-Backbone GmbH,DE
+  reverse: 82.199.140.51
+- country: GB
+  ip: 85.13.206.2
+  provider: COREIX-UK-AS Coreix Ltd,GB
+  reverse: ns0.uknets.info
+- country: US
+  ip: 216.19.223.17
+  provider: CORESPACE-DAL - CoreSpace, Inc.,US
+  reverse: www.getnet.net
+- country: RU
+  ip: 89.255.99.131
+  provider: CPLUS1-AS CJSC TK Convey Plus
+  reverse: ns1.cplus.ru
+- country: RU
+  ip: 89.255.96.3
+  provider: CPLUS1-AS CJSC TK Convey Plus
+  reverse: ns0.cplus.ru
+- country: BR
+  ip: 189.126.62.173
+  provider: CPNET Com. e Serv. Telecomunicaes Ltda.,BR
+  reverse: 173.62.126.189.cpnet.com.br
+- country: GB
+  ip: 194.169.244.34
+  provider: CROSSPOINT-AS Crosspoint Colocation And Hosting Limited
+  reverse: ns6.adweb.co.uk
+- country: DK
+  ip: 147.29.37.19
+  provider: CSC Danmark A/S
+  reverse: ns3.csc.dk
+- country: DK
+  ip: 147.29.10.55
+  provider: CSC Danmark A/S
+  reverse: ns2.sdn.dk
+- country: DK
+  ip: 147.29.37.20
+  provider: CSC Danmark A/S
+  reverse: ns4.csc.dk
+- country: TH
+  ip: 203.146.237.237
+  provider: CSLOXINFO-AS-AP CS LOXINFO PUBLIC COMPANY LIMITED
+  reverse: ns01.csloxinfo.com
+- country: RU
+  ip: 217.175.129.60
+  provider: CSSMPS-AS Central Switching Station of Ministry Railway Transport
+  reverse: lion.css-rzd.ru
+- country: CN
+  ip: 202.38.128.58
+  provider: CSTNET-AS-AP Computer Network Information Center
+  reverse: dns.ihep.ac.cn
+- country: CN
+  ip: 61.236.93.33
+  provider: CTTNET China TieTong Telecommunications Corporation
+  reverse: 61.236.93.33
+- country: CN
+  ip: 61.236.93.34
+  provider: CTTNET China TieTong Telecommunications Corporation
+  reverse: 61.236.93.34
+- country: CN
+  ip: 211.98.4.1
+  provider: CTTNET China TieTong Telecommunications Corporation
+  reverse: 211.98.4.1
+- country: US
+  ip: 65.163.107.11
+  provider: CTUSA-NET - Multiband
+  reverse: ns1.ctusa.net
+- country: EU
+  ip: 194.6.79.163
+  provider: CW Cable and Wireless Worldwide plc
+  reverse: ns1.cwci.net
+- country: EU
+  ip: 141.1.27.249
+  provider: CW Cable and Wireless Worldwide plc
+  reverse: euro-cns1.cw.net
+- country: EU
+  ip: 141.1.1.1
+  provider: CW Cable and Wireless Worldwide plc
+  reverse: cns1.cw.net
+- country: PL
+  ip: 149.156.12.250
+  provider: CYFRONET-AS Metropolitan Area Network Autonomous System
+  reverse: amicus.cm-uj.krakow.pl
+- country: PL
+  ip: 149.156.64.210
+  provider: CYFRONET-AS Metropolitan Area Network Autonomous System
+  reverse: theta.uoks.uj.edu.pl
+- country: PL
+  ip: 193.193.74.130
+  provider: CYFRONET-AS2 Metropolitan Area Network Autonomous System
+  reverse: solaris.clico.krakow.pl
+- country: MX
+  ip: 200.95.144.4
+  provider: Cablemas Telecomunicaciones SA de CV
+  reverse: cva2.cableonline.com.mx
+- country: BR
+  ip: 186.232.41.61
+  provider: Connect Network,BR
+  reverse: 61-240-static.connectnetwork.net.br.41.232.186.in-addr.arpa
+- country: RU
+  ip: 91.210.24.22
+  provider: DAGOMYS-AS Dagomys Telecom LLC
+  reverse: ns1.dagotel.ru
+- country: CH
+  ip: 195.216.64.144
+  provider: DATAWAY-AS dataway GmbH
+  reverse: stargazer.dataway.ch
+- country: IR
+  ip: 80.191.92.150
+  provider: DCI-AS Information Technology Company (ITC)
+  reverse: 80.191.92.150
+- country: IR
+  ip: 80.191.92.146
+  provider: DCI-AS Information Technology Company (ITC)
+  reverse: 80.191.92.146
+- country: IR
+  ip: 80.191.91.19
+  provider: DCI-AS Information Technology Company (ITC)
+  reverse: 80.191.91.19
+- country: IR
+  ip: 80.191.106.170
+  provider: DCI-AS Information Technology Company (ITC)
+  reverse: 80.191.106.170
+- country: IR
+  ip: 80.191.106.129
+  provider: DCI-AS Information Technology Company (ITC)
+  reverse: 80.191.106.129
+- country: US
+  ip: 213.137.73.254
+  provider: DELTATHREE - Deltathree
+  reverse: ns.deltathree.com
+- country: DE
+  ip: 192.109.44.14
+  provider: DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+  reverse: poseidon.arb-phys.uni-dortmund.de
+- country: DE
+  ip: 141.61.1.32
+  provider: DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+  reverse: ns1.biochem.mpg.de
+- country: DE
+  ip: 141.56.31.3
+  provider: DFN Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.
+  reverse: hp2.rz.htw-dresden.de
+- country: US
+  ip: 63.248.53.46
+  provider: DIGIS-23205 - JAB Wireless, INC.,US
+  reverse: 63-248-53-46.static.logl002.digis.net
+- country: CA
+  ip: 174.138.223.225
+  provider: DISTRIBUTEL-AS11814 - DISTRIBUTEL COMMUNICATIONS LTD.,CA
+  reverse: 174-138-223-225.cpe.distributel.net
+- country: CA
+  ip: 23.91.226.197
+  provider: DISTRIBUTEL-AS11814 - DISTRIBUTEL COMMUNICATIONS LTD.,CA
+  reverse: 23-91-226-197.cpe.distributel.net
+- country: CA
+  ip: 23.91.234.100
+  provider: DISTRIBUTEL-AS11814 - DISTRIBUTEL COMMUNICATIONS LTD.,CA
+  reverse: 23-91-234-100.cpe.distributel.net
+- country: CA
+  ip: 23.91.235.31
+  provider: DISTRIBUTEL-AS11814 - DISTRIBUTEL COMMUNICATIONS LTD.,CA
+  reverse: 23-91-235-31.cpe.distributel.net
+- country: CA
+  ip: 23.91.228.232
+  provider: DISTRIBUTEL-AS11814 - DISTRIBUTEL COMMUNICATIONS LTD.,CA
+  reverse: 23-91-228-232.cpe.distributel.net
+- country: DE
+  ip: 81.18.97.50
+  provider: DOKUMENTA-AS1 Dokumenta AG
+  reverse: ns02.dokumenta.net
+- country: PL
+  ip: 91.194.211.134
+  provider: DOSKOMP OPW DOSKOMP Sp.z.o.o
+  reverse: ip-91.194.211.134.doskomp.lodz.pl
+- country: KR
+  ip: 210.181.1.24
+  provider: DREAMX-KR, DREAMLINE CO.
+  reverse: ns.cjdream.net
+- country: KR
+  ip: 210.181.4.25
+  provider: DREAMX-KR, DREAMLINE CO.
+  reverse: ns2.cjdream.net
+- country: RU
+  ip: 91.185.47.214
+  provider: DSIJSC-AS DSI Autonomous system,RU
+  reverse: autokomplekt.pppoe.cust.dsi.ru
+- country: US
+  ip: 66.51.205.100
+  provider: DSLEXTREME - DSL Extreme
+  reverse: dns1.dslextreme.com
+- country: US
+  ip: 66.51.206.100
+  provider: DSLEXTREME - DSL Extreme
+  reverse: dns2.dslextreme.com
+- country: DE
+  ip: 195.145.22.37
+  provider: DTAG Deutsche Telekom AG
+  reverse: vwdednsmw61.vorwerk.de
+- country: DE
+  ip: 194.25.0.60
+  provider: DTAG Deutsche Telekom AG
+  reverse: resolv-h.dtag.de
+- country: DE
+  ip: 194.25.0.68
+  provider: DTAG Deutsche Telekom AG
+  reverse: resolv-f.dtag.de
+- country: DE
+  ip: 193.41.10.1
+  provider: DTAG Deutsche Telekom AG
+  reverse: ns1.wds.net
+- country: DE
+  ip: 80.146.190.1
+  provider: DTAG Deutsche Telekom AG
+  reverse: ns.ranet.de
+- country: DE
+  ip: 194.25.0.52
+  provider: DTAG Deutsche Telekom AG
+  reverse: resolv-l.dtag.de
+- country: DE
+  ip: 193.22.110.251
+  provider: DTAG Deutsche Telekom AG
+  reverse: integral.igepa-its.de
+- country: DE
+  ip: 193.25.208.49
+  provider: DTAG Deutsche Telekom AG
+  reverse: rs49.wuh-lengerich.de
+- country: DE
+  ip: 195.243.214.4
+  provider: DTAG Deutsche Telekom AG
+  reverse: 195.243.214.4
+- country: DE
+  ip: 193.188.196.250
+  provider: DTAG Deutsche Telekom AG
+  reverse: uoproxy.uniorg.de
+- country: DE
+  ip: 80.156.225.165
+  provider: DTAG Deutsche Telekom AG,DE
+  reverse: 80.156.225.165
+- country: DE
+  ip: 217.86.143.105
+  provider: DTAG Deutsche Telekom AG,DE
+  reverse: pd9568f69.dip0.t-ipconnect.de
+- country: DE
+  ip: 217.92.152.244
+  provider: DTAG Deutsche Telekom AG,DE
+  reverse: smtp.aktionsbund.snx.de
+- country: DE
+  ip: 217.7.221.73
+  provider: DTAG Deutsche Telekom AG,DE
+  reverse: pd907dd49.dip0.t-ipconnect.de
+- country: DE
+  ip: 87.128.111.158
+  provider: DTAG Deutsche Telekom AG,DE
+  reverse: p57806f9e.dip0.t-ipconnect.de
+- country: DE
+  ip: 80.153.70.65
+  provider: DTAG Deutsche Telekom AG,DE
+  reverse: p50994641.dip0.t-ipconnect.de
+- country: DE
+  ip: 2.173.48.163
+  provider: DTAG Deutsche Telekom AG,DE
+  reverse: 2.173.48.163
+- country: DE
+  ip: 37.85.52.43
+  provider: DTAG Deutsche Telekom AG,DE
+  reverse: 37.85.52.43
+- country: DE
+  ip: 2.164.200.172
+  provider: DTAG Deutsche Telekom AG,DE
+  reverse: 2.164.200.172
+- country: GB
+  ip: 193.243.128.91
+  provider: DXI-SOL-CORE MoneyAM Ltd
+  reverse: ns1.moneyam.com
+- country: US
+  ip: 198.153.194.50
+  provider: DYNDNS - Dynamic Network Services, Inc.
+  reverse: 198.153.194.50
+- country: US
+  ip: 198.153.192.1
+  provider: DYNDNS - Dynamic Network Services, Inc.
+  reverse: 198.153.192.1
+- country: US
+  ip: 198.153.194.1
+  provider: DYNDNS - Dynamic Network Services, Inc.
+  reverse: 198.153.194.1
+- country: US
+  ip: 198.153.194.40
+  provider: DYNDNS - Dynamic Network Services, Inc.
+  reverse: 198.153.194.40
+- country: US
+  ip: 198.153.192.60
+  provider: DYNDNS - Dynamic Network Services, Inc.
+  reverse: 198.153.192.60
+- country: US
+  ip: 216.146.36.36
+  provider: DYNDNS - Dynamic Network Services, Inc.
+  reverse: resolver2.dyndnsinternetguide.com
+- country: US
+  ip: 198.153.194.60
+  provider: DYNDNS - Dynamic Network Services, Inc.
+  reverse: 198.153.194.60
+- country: US
+  ip: 216.146.35.35
+  provider: DYNDNS - Dynamic Network Services, Inc.
+  reverse: resolver1.dyndnsinternetguide.com
+- country: US
+  ip: 198.153.192.40
+  provider: DYNDNS - Dynamic Network Services, Inc.
+  reverse: 198.153.192.40
+- country: BR
+  ip: 177.53.73.81
+  provider: Danillo da Silva Ventura,BR
+  reverse: ip-177.53.73.81.ubannet.com.br
+- country: CA
+  ip: 24.222.107.1
+  provider: EASTLINK-HSI - EastLink,CA
+  reverse: blk-222-107-1.eastlink.ca
+- country: GB
+  ip: 81.5.160.145
+  provider: ECLIPSE KCOM GROUP PLC,GB
+  reverse: 81.5.160.145
+- country: ZA
+  ip: 41.221.5.170
+  provider: ECN-AS1
+  reverse: 41.221.5.170
+- country: RU
+  ip: 86.110.173.14
+  provider: ECOM-DON-AS Closed Joint Stock Company TransTeleCom,RU
+  reverse: cherkessk-gw.spark-rostov.ru
+- country: DE
+  ip: 212.204.54.58
+  provider: EDISCOM e.discom Telekommunikation GmbH,DE
+  reverse: 58.54.204.212-static.ediscom.de
+- country: AU
+  ip: 203.171.69.158
+  provider: EFTEL-AS-AP Eftel Limited.,AU
+  reverse: 203.171.69.158.static.rev.eftel.com
+- country: CA
+  ip: 216.235.1.3
+  provider: EGATE-NETWORKS E-Gate Networks
+  reverse: ns2.dm.egate.net
+- country: RU
+  ip: 212.124.15.67
+  provider: ELCOM-ISP-AS OJSC Rostelecom,RU
+  reverse: 212-124-15-67.domolink.elcom.ru
+- country: RU
+  ip: 95.181.47.114
+  provider: ELIGHT-AS E-Light-Telecom
+  reverse: 95-181-47-114.goodline.info
+- country: GB
+  ip: 185.41.25.51
+  provider: ELITETELE ELITETELE.COM PLC,GB
+  reverse: 185.41.25.51
+- country: US
+  ip: 8.20.247.20
+  provider: ELV-ANYCAST-NET ANYCAST-AS
+  reverse: ns2.recursive.dns.com
+- country: US
+  ip: 8.26.56.26
+  provider: ELV-ANYCAST-NET ANYCAST-AS
+  reverse: ns1.recursive.dns.com
+- country: US
+  ip: 66.86.123.73
+  provider: EMBARQ-LVGS - Embarq Corporation,US
+  reverse: nv-66-86-123-73.dhcp.embarqhsd.net
+- country: US
+  ip: 184.0.80.110
+  provider: EMBARQ-LVGS - Embarq Corporation,US
+  reverse: nv-184-0-80-110.dhcp.embarqhsd.net
+- country: US
+  ip: 146.135.17.218
+  provider: EMBARQ-RCMT - Embarq Corporation,US
+  reverse: 146.135.17.218
+- country: US
+  ip: 184.7.146.9
+  provider: EMBARQ-WNPK - Embarq Corporation,US
+  reverse: 184.7.146.9
+- country: US
+  ip: 66.86.244.36
+  provider: EMBARQ-WNPK - Embarq Corporation,US
+  reverse: fl-66-86-244-36.dhcp.embarqhsd.net
+- country: CL
+  ip: 200.111.143.235
+  provider: ENTEL CHILE S.A.,CL
+  reverse: 200.111.143.235
+- country: RU
+  ip: 95.154.128.32
+  provider: EPL-AS Production co-operative Economic-legal laboratory
+  reverse: rejector.ru
+- country: DK
+  ip: 91.144.248.227
+  provider: ERTELE-AS Verdo Tele A/S
+  reverse: ns3.wwi.as
+- country: CN
+  ip: 210.34.0.18
+  provider: ERX-CERNET-BKB China Education and Research Network Center
+  reverse: dns.xmu.edu.cn
+- country: CN
+  ip: 125.219.48.8
+  provider: ERX-CERNET-BKB China Education and Research Network Center
+  reverse: 125.219.48.8
+- country: SG
+  ip: 165.21.100.88
+  provider: ERX-SINGNET SingNet
+  reverse: dnscache2.singnet.com.sg
+- country: SG
+  ip: 165.21.83.88
+  provider: ERX-SINGNET SingNet
+  reverse: dnscache1.singnet.com.sg
+- country: US
+  ip: 162.247.233.5
+  provider: ESITED - eSited Solutions,US
+  reverse: 162.247.233.5
+- country: RU
+  ip: 85.192.185.252
+  provider: ESOO-AS OJSC Rostelecom,RU
+  reverse: 85-192-185-252.dsl.esoo.ru
+- country: ES
+  ip: 213.250.160.201
+  provider: EURONA-AS EURONA WIRELESS TELECOM, S.A.,ES
+  reverse: 213.250.160.201
+- country: AU
+  ip: 220.233.0.1
+  provider: EXETEL-AS-AP Exetel Pty Ltd
+  reverse: ns1.exetel.com.au
+- country: AU
+  ip: 220.233.157.170
+  provider: EXETEL-AS-AP Exetel Pty Ltd,AU
+  reverse: 170.157.233.220.static.exetel.com.au
+- country: AU
+  ip: 115.70.222.243
+  provider: EXETEL-AS-AP Exetel Pty Ltd,AU
+  reverse: 243.222.70.115.static.exetel.com.au
+- country: AU
+  ip: 220.233.119.133
+  provider: EXETEL-AS-AP Exetel Pty Ltd,AU
+  reverse: 133.119.233.220.static.exetel.com.au
+- country: AU
+  ip: 220.233.91.73
+  provider: EXETEL-AS-AP Exetel Pty Ltd,AU
+  reverse: 73.91.233.220.static.exetel.com.au
+- country: RU
+  ip: 85.115.224.18
+  provider: EXTEL-AS OJSC _VimpelCom_
+  reverse: fortress.extel-gsm.com
+- country: BR
+  ip: 191.36.210.225
+  provider: Evanildo Barbeta Boituva ME,BR
+  reverse: c225-210.brconecta.com.br
+- country: US
+  ip: 69.24.112.10
+  provider: FAIRNET-LLC - FAIRNET LLC
+  reverse: ns2.ffni.com
+- country: GB
+  ip: 213.171.220.215
+  provider: FASTHOSTS-INTERNET Fasthosts Internet Ltd. Gloucester, UK.
+  reverse: server11.gifford.co.uk
+- country: GB
+  ip: 77.68.39.92
+  provider: FASTHOSTS-INTERNET Fasthosts Internet Ltd. Gloucester, UK.
+  reverse: ns1.pollab.com
+- country: GB
+  ip: 217.174.252.116
+  provider: FASTHOSTS-INTERNET Fasthosts Internet Ltd. Gloucester, UK.
+  reverse: ns1.meridian-micro.co.uk
+- country: GB
+  ip: 217.174.252.65
+  provider: FASTHOSTS-INTERNET Fasthosts Internet Ltd. Gloucester, UK.
+  reverse: ns2.meridian-micro.co.uk
+- country: RU
+  ip: 83.69.112.186
+  provider: FATUM-AS LLC _Fatum-3_
+  reverse: bilag.snow-kazan.ru
+- country: JP
+  ip: 182.163.74.213
+  provider: FBDC FreeBit Co.,Ltd.
+  reverse: v-182-163-74-213.ub-freebit.net
+- country: US
+  ip: 76.73.18.50
+  provider: FDCSERVERS - FDCservers.net
+  reverse: 76.73.18.50
+- country: US
+  ip: 64.251.142.149
+  provider: FIDN - Fidelity Communication International Inc.,US
+  reverse: 64-251-142-149.fidnet.com
+- country: CH
+  ip: 84.241.100.31
+  provider: FINECOM Finecom Telecommunications AG
+  reverse: ns1.comtronic.ch
+- country: RU
+  ip: 62.140.224.86
+  provider: FIORD-AS LLC _TRC FIORD_,RU
+  reverse: 62.140.224.86
+- country: GB
+  ip: 91.135.230.231
+  provider: FIRSTSERV-AS Firstserv Limited
+  reverse: dns1.lede.co.uk
+- country: CH
+  ip: 81.92.96.22
+  provider: FLASHCABLE GIB-Solutions AG
+  reverse: ns2.flashcable.ch
+- country: CH
+  ip: 81.92.97.12
+  provider: FLASHCABLE GIB-Solutions AG
+  reverse: ns1.flashcable.ch
+- country: RU
+  ip: 88.84.207.68
+  provider: FLEX-AS Flex Ltd,RU
+  reverse: 88.84.207.68
+- country: GB
+  ip: 217.144.144.11
+  provider: FMN Fusion Media Networks Ltd
+  reverse: ns1.fmn.uk.net
+- country: GB
+  ip: 217.144.144.211
+  provider: FMN Fusion Media Networks Ltd
+  reverse: ns2.fmn.uk.net
+- country: PL
+  ip: 188.112.17.16
+  provider: FONE-ASN Hawe Telekom Sp. z.o.o.,PL
+  reverse: 188-112-17-16.net.hawetelekom.pl
+- country: BR
+  ip: 189.90.16.20
+  provider: FORTALNET BUREAU DE COMERCIO E SERVICOS LTDA
+  reverse: jangada.fortalnet.com.br
+- country: US
+  ip: 65.181.125.122
+  provider: FORTRESSITX - FortressITX,US
+  reverse: 65.181.125.122
+- country: FR
+  ip: 195.221.20.10
+  provider: FR-RENATER Reseau National de telecommunications pour la Technologie
+  reverse: ns.crihan.fr
+- country: FR
+  ip: 193.52.218.19
+  provider: FR-RENATER Reseau National de telecommunications pour la Technologie
+  reverse: ns1.syrhano.net
+- country: US
+  ip: 216.17.128.2
+  provider: FRII - Front Range Internet Inc.
+  reverse: ns2.frii.com
+- country: US
+  ip: 216.17.128.1
+  provider: FRII - Front Range Internet Inc.
+  reverse: ns1.frii.com
+- country: US
+  ip: 184.14.107.136
+  provider: FRONTIER-FRTR - Frontier Communications of America, Inc.,US
+  reverse: 184-14-107-136.dsl1.chtn.wv.frontiernet.net
+- country: US
+  ip: 50.5.71.213
+  provider: FUSE-NET - Cincinnati Bell Telephone,US
+  reverse: 50-5-71-213.dynamic.fuse.net
+- country: US
+  ip: 199.201.159.5
+  provider: G4-COMMUNICATIONS - Metro2000, Inc.
+  reverse: ns2.jlc.net
+- country: US
+  ip: 64.212.106.84
+  provider: GBLX Global Crossing Ltd.
+  reverse: dns1.jfk.gblx.net
+- country: US
+  ip: 195.166.13.4
+  provider: GBLX Global Crossing Ltd.
+  reverse: dns0.ns.uk.quza.net
+- country: US
+  ip: 67.17.215.133
+  provider: GBLX Global Crossing Ltd.
+  reverse: dns2.snv.gblx.net
+- country: US
+  ip: 64.215.98.148
+  provider: GBLX Global Crossing Ltd.
+  reverse: dns1.lon.gblx.net
+- country: US
+  ip: 209.130.136.2
+  provider: GBLX Global Crossing Ltd.
+  reverse: dns1.roc.gblx.net
+- country: BE
+  ip: 194.145.241.6
+  provider: GBXS-AS M247 Ltd
+  reverse: ns2.fivestardns.com
+- country: BE
+  ip: 194.145.240.6
+  provider: GBXS-AS M247 Ltd
+  reverse: ns1.fivestardns.com
+- country: US
+  ip: 66.223.173.116
+  provider: GCI - GENERAL COMMUNICATION, INC.,US
+  reverse: 116-173-223-66.gci.net
+- country: US
+  ip: 63.246.63.142
+  provider: GEUS-CABLE-INTERNET - GEUS
+  reverse: cache1.geusnet.com
+- country: BR
+  ip: 187.87.78.157
+  provider: GIGA TV LTDA - EPP,BR
+  reverse: 187.87.78.157
+- country: FR
+  ip: 80.67.169.12
+  provider: GITOYEN-MAIN-AS Association _Gitoyen_
+  reverse: ns0.fdn.fr
+- country: FR
+  ip: 80.67.169.40
+  provider: GITOYEN-MAIN-AS Association _Gitoyen_
+  reverse: ns1.fdn.org
+- country: DE
+  ip: 217.64.163.1
+  provider: GLOBALACCESS Global Access Internet Services GmbH
+  reverse: ns1.global.de
+- country: DE
+  ip: 217.64.167.1
+  provider: GLOBALACCESS Global Access Internet Services GmbH
+  reverse: ns2.global.de
+- country: AU
+  ip: 203.89.226.24
+  provider: GLOBALCENTER-AU Datacom Victoria
+  reverse: rbs1.globalcenter.net.au
+- country: AU
+  ip: 203.89.226.26
+  provider: GLOBALCENTER-AU Datacom Victoria
+  reverse: mdbs2.globalcenter.net.au
+- country: CA
+  ip: 209.239.11.98
+  provider: GOLDEN - Golden Triangle On Line
+  reverse: ns2.execulink.com
+- country: CA
+  ip: 216.75.181.132
+  provider: GOLDEN - Golden Triangle On Line,CA
+  reverse: node-14767.pppoe.execulink.com
+- country: CA
+  ip: 216.75.181.164
+  provider: GOLDEN - Golden Triangle On Line,CA
+  reverse: node-14799.pppoe.execulink.com
+- country: US
+  ip: 8.8.4.4
+  provider: GOOGLE - Google Inc.
+  reverse: google-public-dns-b.google.com
+- country: US
+  ip: 8.8.8.8
+  provider: GOOGLE - Google Inc.
+  reverse: google-public-dns-a.google.com
+- country: GR
+  ip: 194.177.218.25
+  provider: GR-NET Greek Research and Technology Network S.A
+  reverse: noc.panteion.gr
+- country: GB
+  ip: 85.189.95.30
+  provider: GRIFFIN MDNX Enterprise Services Ltd,GB
+  reverse: unknown.griffin.com
+- country: GB
+  ip: 93.152.30.80
+  provider: GRIFFIN MDNX Enterprise Services Ltd,GB
+  reverse: 93-152-30-80.az2.mops2.co.uk
+- country: ES
+  ip: 80.64.32.2
+  provider: GRN-AS GRN Network
+  reverse: ns1.grn.es
+- country: ES
+  ip: 212.4.96.22
+  provider: GRUPALIA-AS Grupalia Internet S.A.
+  reverse: ns1.gnet.es
+- country: BR
+  ip: 177.36.130.133
+  provider: GSTN DO BRASIL LTDA,BR
+  reverse: 177.36.130.133
+- country: CA
+  ip: 64.187.29.134
+  provider: GT-BELL - Bell Canada
+  reverse: h64-187-29-134.gtcust.grouptelecom.net
+- country: ES
+  ip: 109.69.8.51
+  provider: GUIFINET-AS Fundacio Privada per a la Xarxa Lliure, Oberta i Neutral,
+    guifi.net
+  reverse: ns.servidordenoms.cat
+- country: US
+  ip: 69.85.64.28
+  provider: GVII - Grand Valley Internet
+  reverse: ns1.gvii.net
+- country: PL
+  ip: 195.178.123.130
+  provider: HDS-POLSKA-ASN HDS Polska Sp. z o.o.
+  reverse: rysio.hds.pl
+- country: DE
+  ip: 213.239.204.35
+  provider: HETZNER-AS Hetzner Online AG
+  reverse: mail.lkrauss.de
+- country: DE
+  ip: 213.239.198.115
+  provider: HETZNER-AS Hetzner Online GmbH,DE
+  reverse: nfeed.org
+- country: DE
+  ip: 148.251.27.33
+  provider: HETZNER-AS Hetzner Online GmbH,DE
+  reverse: firewall.smma.ch
+- country: CA
+  ip: 216.185.64.6
+  provider: HHES - HAMILTON HYDRO ELECTRIC SYSTEM
+  reverse: ns1.fibrewired.on.ca
+- country: CA
+  ip: 216.185.64.10
+  provider: HHES - HAMILTON HYDRO ELECTRIC SYSTEM
+  reverse: ns2.fibrewired.on.ca
+- country: US
+  ip: 69.16.170.11
+  provider: HIGHWINDS - Highwinds Network Group, Inc.
+  reverse: dnscache02.easynews.com
+- country: US
+  ip: 69.16.169.11
+  provider: HIGHWINDS - Highwinds Network Group, Inc.
+  reverse: dnscache01.easynews.com
+- country: TW
+  ip: 114.38.119.7
+  provider: HINET Data Communication Business Group,TW
+  reverse: 114-38-119-7.dynamic.hinet.net
+- country: TW
+  ip: 114.38.17.41
+  provider: HINET Data Communication Business Group,TW
+  reverse: 114-38-17-41.dynamic.hinet.net
+- country: TW
+  ip: 211.75.111.220
+  provider: HINET Data Communication Business Group,TW
+  reverse: mail.gdstaiwan.com
+- country: TW
+  ip: 111.248.58.166
+  provider: HINET Data Communication Business Group,TW
+  reverse: 111-248-58-166.dynamic.hinet.net
+- country: TW
+  ip: 111.249.190.73
+  provider: HINET Data Communication Business Group,TW
+  reverse: 111-249-190-73.dynamic.hinet.net
+- country: TW
+  ip: 118.171.4.172
+  provider: HINET Data Communication Business Group,TW
+  reverse: 118-171-4-172.dynamic.hinet.net
+- country: TW
+  ip: 36.224.31.216
+  provider: HINET Data Communication Business Group,TW
+  reverse: 36-224-31-216.dynamic-ip.hinet.net
+- country: TW
+  ip: 1.165.113.73
+  provider: HINET Data Communication Business Group,TW
+  reverse: 1-165-113-73.dynamic.hinet.net
+- country: TW
+  ip: 61.223.56.83
+  provider: HINET Data Communication Business Group,TW
+  reverse: 61-223-56-83.dynamic.hinet.net
+- country: TW
+  ip: 114.38.10.152
+  provider: HINET Data Communication Business Group,TW
+  reverse: 114-38-10-152.dynamic.hinet.net
+- country: TW
+  ip: 122.121.88.206
+  provider: HINET Data Communication Business Group,TW
+  reverse: 122-121-88-206.dynamic.hinet.net
+- country: TW
+  ip: 61.231.130.156
+  provider: HINET Data Communication Business Group,TW
+  reverse: 61-231-130-156.dynamic.hinet.net
+- country: TW
+  ip: 114.25.19.227
+  provider: HINET Data Communication Business Group,TW
+  reverse: 114-25-19-227.dynamic.hinet.net
+- country: TW
+  ip: 118.163.77.89
+  provider: HINET Data Communication Business Group,TW
+  reverse: 118-163-77-89.hinet-ip.hinet.net
+- country: TW
+  ip: 36.230.62.49
+  provider: HINET Data Communication Business Group,TW
+  reverse: 36-230-62-49.dynamic-ip.hinet.net
+- country: TW
+  ip: 1.160.124.66
+  provider: HINET Data Communication Business Group,TW
+  reverse: 1-160-124-66.dynamic.hinet.net
+- country: TW
+  ip: 36.234.220.84
+  provider: HINET Data Communication Business Group,TW
+  reverse: 36-234-220-84.dynamic-ip.hinet.net
+- country: TW
+  ip: 36.236.127.73
+  provider: HINET Data Communication Business Group,TW
+  reverse: 36-236-127-73.dynamic-ip.hinet.net
+- country: TW
+  ip: 36.226.19.4
+  provider: HINET Data Communication Business Group,TW
+  reverse: 36-226-19-4.dynamic-ip.hinet.net
+- country: TW
+  ip: 114.44.226.94
+  provider: HINET Data Communication Business Group,TW
+  reverse: 114-44-226-94.dynamic.hinet.net
+- country: TW
+  ip: 61.227.233.208
+  provider: HINET Data Communication Business Group,TW
+  reverse: 61-227-233-208.dynamic.hinet.net
+- country: TW
+  ip: 1.172.184.202
+  provider: HINET Data Communication Business Group,TW
+  reverse: 1-172-184-202.dynamic.hinet.net
+- country: TW
+  ip: 111.250.70.152
+  provider: HINET Data Communication Business Group,TW
+  reverse: 111-250-70-152.dynamic.hinet.net
+- country: TW
+  ip: 118.160.95.250
+  provider: HINET Data Communication Business Group,TW
+  reverse: 118-160-95-250.dynamic.hinet.net
+- country: TW
+  ip: 111.242.69.216
+  provider: HINET Data Communication Business Group,TW
+  reverse: 111-242-69-216.dynamic.hinet.net
+- country: TW
+  ip: 61.227.246.57
+  provider: HINET Data Communication Business Group,TW
+  reverse: 61-227-246-57.dynamic.hinet.net
+- country: HK
+  ip: 61.92.42.148
+  provider: HKBN-AS-AP Hong Kong Broadband Network Ltd.,HK
+  reverse: 061092042148.ctinets.com
+- country: DE
+  ip: 109.104.38.154
+  provider: HLKOMM HL komm Telekommunikations GmbH,DE
+  reverse: 109.104.38.154
+- country: PL
+  ip: 212.85.112.32
+  provider: HOMEPL-AS home.pl sp. z o.o.
+  reverse: dns4.home.pl
+- country: PL
+  ip: 62.129.252.252
+  provider: HOMEPL-AS home.pl sp. z o.o.
+  reverse: dns4.home.pl
+- country: DE
+  ip: 80.237.197.14
+  provider: HOSTEUROPE-AS Host Europe GmbH
+  reverse: dns03.che.dt-internet.de
+- country: US
+  ip: 15.227.128.50
+  provider: HP-DIGITAL-10782 - Hewlett-Packard Company
+  reverse: am1.hp.com
+- country: DE
+  ip: 149.211.153.50
+  provider: HP_WEBSERVICES Hewlett Packard GmbH
+  reverse: nserver2.khis.de
+- country: DE
+  ip: 149.250.222.21
+  provider: HP_WEBSERVICES Hewlett Packard GmbH
+  reverse: nserver6.khis.de
+- country: DE
+  ip: 149.211.153.51
+  provider: HP_WEBSERVICES Hewlett Packard GmbH
+  reverse: nserver5.khis.de
+- country: DE
+  ip: 170.56.58.53
+  provider: HP_WEBSERVICES Hewlett Packard GmbH
+  reverse: nserver1.khis.de
+- country: ES
+  ip: 178.23.57.239
+  provider: HUBARA HUBARA hosting solutions S.L.,ES
+  reverse: 178.23.57.239
+- country: US
+  ip: 209.51.161.14
+  provider: HURRICANE - Hurricane Electric, Inc.
+  reverse: tserv1.nyc4.he.net
+- country: US
+  ip: 216.218.226.238
+  provider: HURRICANE - Hurricane Electric, Inc.
+  reverse: tserv1.sea1.he.net
+- country: US
+  ip: 216.66.80.98
+  provider: HURRICANE - Hurricane Electric, Inc.
+  reverse: tserv1.zrh1.he.net
+- country: US
+  ip: 64.62.142.131
+  provider: HURRICANE - Hurricane Electric, Inc.
+  reverse: 64.62.142.131
+- country: US
+  ip: 216.66.80.90
+  provider: HURRICANE - Hurricane Electric, Inc.
+  reverse: tserv1.sto1.he.net
+- country: US
+  ip: 216.218.221.6
+  provider: HURRICANE - Hurricane Electric, Inc.
+  reverse: tserv2.hkg1.he.net
+- country: US
+  ip: 216.66.80.30
+  provider: HURRICANE - Hurricane Electric, Inc.
+  reverse: tserv1.fra1.he.net
+- country: US
+  ip: 216.66.22.2
+  provider: HURRICANE - Hurricane Electric, Inc.
+  reverse: tserv2.ash1.he.net
+- country: US
+  ip: 74.82.46.6
+  provider: HURRICANE - Hurricane Electric, Inc.
+  reverse: tserv1.tyo1.he.net
+- country: US
+  ip: 74.82.42.42
+  provider: HURRICANE - Hurricane Electric, Inc.
+  reverse: ordns.he.net
+- country: CA
+  ip: 142.46.128.130
+  provider: HYDROONETELECOM - Hydro One Telecom Inc.
+  reverse: ns2.hydroonetelecom.com
+- country: PL
+  ip: 193.239.60.19
+  provider: HYPERION-KT-AS HYPERION SA
+  reverse: 193.239.60.19
+- country: DE
+  ip: 217.23.49.227
+  provider: I-NETPARTNER-AS I-NetPartner GmbH
+  reverse: ns3.i-netpartner.net
+- country: DE
+  ip: 217.23.50.18
+  provider: I-NETPARTNER-AS I-NetPartner GmbH
+  reverse: ns2.i-netpartner.net
+- country: CA
+  ip: 64.250.81.10
+  provider: IASL - Internet Access Solutions Ltd.,CA
+  reverse: 64.250.81.10
+- country: CA
+  ip: 64.250.89.160
+  provider: IASL - Internet Access Solutions Ltd.,CA
+  reverse: dynip-160.adslpool.dslam05.toron12.esuite.ca
+- country: CA
+  ip: 64.250.82.177
+  provider: IASL - Internet Access Solutions Ltd.,CA
+  reverse: dynip-177.vdslpool.c6-8.toron10.esuite.ca
+- country: ES
+  ip: 79.98.218.135
+  provider: IBREDAS2 Red digital de telecomunicaciones de las islas baleares SL,ES
+  reverse: 79.98.218.135.ibreddigital.net
+- country: ES
+  ip: 79.98.217.212
+  provider: IBREDAS2 Red digital de telecomunicaciones de las islas baleares SL,ES
+  reverse: 79.98.217.212.ibreddigital.net
+- country: IS
+  ip: 157.157.90.253
+  provider: ICENET-AS1 Siminn hf
+  reverse: dns.magnavik.is
+- country: PL
+  ip: 212.87.29.6
+  provider: ICM-PUB University of Warsaw, ICM
+  reverse: old.ibb.waw.pl
+- country: US
+  ip: 209.133.21.10
+  provider: ICO-SV - ICOnetworks
+  reverse: ns1.got.net
+- country: ES
+  ip: 217.149.155.180
+  provider: IDH Telvent Global Services S.A.
+  reverse: 217-149-155-180.incotel.es
+- country: GB
+  ip: 212.69.53.42
+  provider: IDNET Infinity Developments Limited,GB
+  reverse: cust42-dsl53.idnet.net
+- country: GB
+  ip: 109.69.104.254
+  provider: IFLHOST16-AS Stonebridge Software Ltd 16-bit AS,GB
+  reverse: 109.69.104.254
+- country: IE
+  ip: 82.198.129.146
+  provider: IFN-AS INTERFUSION INET AS
+  reverse: ns2.nethop.ie
+- country: IE
+  ip: 82.198.129.138
+  provider: IFN-AS INTERFUSION INET AS
+  reverse: ns1.nethop.ie
+- country: US
+  ip: 208.66.232.66
+  provider: IIC-INTERNET - IIC Internet LLC
+  reverse: ns65.web229.net
+- country: RU
+  ip: 195.178.209.1
+  provider: IIP-NET-AS5429 _UMOS CENTER_ LLC
+  reverse: ns.umos.ru
+- country: DE
+  ip: 212.87.132.53
+  provider: IMOS-AS imos GmbH
+  reverse: ns3.imos.net
+- country: DE
+  ip: 212.87.130.92
+  provider: IMOS-AS imos GmbH
+  reverse: ns1.imos.net
+- country: GB
+  ip: 31.186.250.187
+  provider: INAP-FRA InterNAP Network Services U.K. Limited,GB
+  reverse: v-31-186-250-187.unman-vds.internap-frankfurt.nfoservers.com
+- country: RU
+  ip: 5.35.38.91
+  provider: INF-NET-AS LLC _Multiscan_,RU
+  reverse: 5.35.38.91
+- country: FR
+  ip: 217.169.242.2
+  provider: INFOSAT-AS INFOSAT TELECOM S.A.
+  reverse: ns1.mcom.fr
+- country: DE
+  ip: 212.89.130.180
+  provider: INFOSERVE-AS infoServe GmbH
+  reverse: dns1.infoserve.de
+- country: JP
+  ip: 202.248.20.133
+  provider: INFOWEB FUJITSU LIMITED
+  reverse: dns5.nifty.com
+- country: JP
+  ip: 202.248.2.201
+  provider: INFOWEB FUJITSU LIMITED
+  reverse: ns.web.ad.jp
+- country: JP
+  ip: 202.248.37.74
+  provider: INFOWEB FUJITSU LIMITED
+  reverse: dns.nifty.com
+- country: JP
+  ip: 210.131.113.123
+  provider: INFOWEB FUJITSU LIMITED
+  reverse: ns3.web.ad.jp
+- country: RU
+  ip: 212.94.0.66
+  provider: INGUSHELECTROSVYAZ-AS OJSC Ingushelectrosvyaz
+  reverse: ns1.inges.ru
+- country: ID
+  ip: 103.37.168.18
+  provider: INNOVATION-AS-ID PT Inovasi Jaringan Nusantara,ID
+  reverse: ip18-168-innovation.net.id
+- country: PL
+  ip: 212.67.131.4
+  provider: INOTEL-AS INOTEL S.A.
+  reverse: ns2.inotel.pl
+- country: PL
+  ip: 212.67.143.194
+  provider: INOTEL-AS INOTEL S.A.
+  reverse: ns1.inotel.pl
+- country: US
+  ip: 72.46.0.2
+  provider: INTAP-1 - Intap, LLC
+  reverse: ns.intap.net
+- country: DE
+  ip: 213.73.91.35
+  provider: INTERDOTNET-LIG-AS Inter.Net Germany ligado operation
+  reverse: dnscache.berlin.ccc.de
+- country: US
+  ip: 216.52.65.1
+  provider: INTERNAP-2BLK - Internap Network Services Corporation
+  reverse: ns1.phi.pnap.net
+- country: US
+  ip: 74.91.118.243
+  provider: INTERNAP-2BLK - Internap Network Services Corporation
+  reverse: gatesj.alohadns.com
+- country: US
+  ip: 216.52.65.33
+  provider: INTERNAP-2BLK - Internap Network Services Corporation
+  reverse: ns2.phi.pnap.net
+- country: US
+  ip: 69.25.1.33
+  provider: INTERNAP-2BLK - Internap Network Services Corporation
+  reverse: ns2.mia003.pnap.net
+- country: US
+  ip: 216.52.161.33
+  provider: INTERNAP-2BLK - Internap Network Services Corporation
+  reverse: ns2.mia.pnap.net
+- country: US
+  ip: 66.151.145.1
+  provider: INTERNAP-2BLK - Internap Network Services Corporation
+  reverse: ns1.sje.pnap.net
+- country: US
+  ip: 216.52.97.33
+  provider: INTERNAP-2BLK - Internap Network Services Corporation
+  reverse: ns2.ocy.pnap.net
+- country: US
+  ip: 216.52.126.1
+  provider: INTERNAP-BLK - Internap Network Services Corporation
+  reverse: ns1.wdc002.pnap.net
+- country: US
+  ip: 216.52.254.33
+  provider: INTERNAP-BLK - Internap Network Services Corporation
+  reverse: ns2.lax.pnap.net
+- country: US
+  ip: 209.191.129.65
+  provider: INTERNAP-BLK - Internap Network Services Corporation
+  reverse: ns2.nyc.pnap.net
+- country: US
+  ip: 216.52.254.1
+  provider: INTERNAP-BLK - Internap Network Services Corporation
+  reverse: ns1.lax.pnap.net
+- country: US
+  ip: 209.191.129.1
+  provider: INTERNAP-BLK - Internap Network Services Corporation
+  reverse: ns1.nyc.pnap.net
+- country: US
+  ip: 216.52.94.33
+  provider: INTERNAP-BLK3 - Internap Network Services Corporation
+  reverse: ns2.nym.pnap.net
+- country: US
+  ip: 216.52.94.1
+  provider: INTERNAP-BLK3 - Internap Network Services Corporation
+  reverse: ns1.nym.pnap.net
+- country: US
+  ip: 216.52.41.33
+  provider: INTERNAP-BLK3 - Internap Network Services Corporation
+  reverse: ns2.den.pnap.net
+- country: US
+  ip: 216.52.41.1
+  provider: INTERNAP-BLK3 - Internap Network Services Corporation
+  reverse: ns1.den.pnap.net
+- country: US
+  ip: 216.52.169.1
+  provider: INTERNAP-BLK3 - Internap Network Services Corporation
+  reverse: ns1.hou.pnap.net
+- country: US
+  ip: 64.94.33.1
+  provider: INTERNAP-BLK5 - Internap Network Services Corporation
+  reverse: ns1.chg.pnap.net
+- country: US
+  ip: 63.251.129.1
+  provider: INTERNAP-BLOCK-4 - Internap Network Services Corporation
+  reverse: ns1.bsn.pnap.net
+- country: US
+  ip: 64.94.1.33
+  provider: INTERNAP-BLOCK-4 - Internap Network Services Corporation
+  reverse: ns2.acs.pnap.net
+- country: US
+  ip: 63.251.129.33
+  provider: INTERNAP-BLOCK-4 - Internap Network Services Corporation
+  reverse: ns2.bsn.pnap.net
+- country: US
+  ip: 63.251.62.1
+  provider: INTERNAP-BLOCK-4 - Internap Network Services Corporation
+  reverse: ns1.sfo.pnap.net
+- country: US
+  ip: 63.251.62.33
+  provider: INTERNAP-BLOCK-4 - Internap Network Services Corporation
+  reverse: ns2.sfo.pnap.net
+- country: US
+  ip: 206.253.194.65
+  provider: INTERNAP-BLOCK-4 - Internap Network Services Corporation
+  reverse: ns1.pnap.net
+- country: US
+  ip: 63.251.161.33
+  provider: INTERNAP-BLOCK-4 - Internap Network Services Corporation
+  reverse: ns2.sef.pnap.net
+- country: US
+  ip: 63.251.161.1
+  provider: INTERNAP-BLOCK-4 - Internap Network Services Corporation
+  reverse: ns1.sef.pnap.net
+- country: US
+  ip: 64.94.1.1
+  provider: INTERNAP-BLOCK-4 - Internap Network Services Corporation
+  reverse: ns1.acs.pnap.net
+- country: RU
+  ip: 194.165.30.30
+  provider: INTERNET-AS Internet Ltd.
+  reverse: ns.i9.ru
+- country: DE
+  ip: 193.41.116.20
+  provider: INTERNET4YOU internet4YOU GmbH & Co. KG
+  reverse: nserv1.internet4you.de
+- country: PL
+  ip: 83.238.255.76
+  provider: INTERNETIA-AS Netia SA
+  reverse: 83-238-255-76.ip.netia.com.pl
+- country: PL
+  ip: 83.238.39.254
+  provider: INTERNETIA-AS Netia SA
+  reverse: prometeusz.pub.sarocom.net
+- country: PL
+  ip: 87.204.28.12
+  provider: INTERNETIA-AS Netia SA
+  reverse: dns2.futuro.pl
+- country: PL
+  ip: 213.241.79.37
+  provider: INTERNETIA-AS Netia SA
+  reverse: dns1.inetia.pl
+- country: PL
+  ip: 62.233.128.17
+  provider: INTERNETIA-AS Netia SA
+  reverse: szafir.futuro.pl
+- country: PL
+  ip: 62.233.181.26
+  provider: INTERNETIA-AS Netia SA
+  reverse: lag-2.lodz.msk.pl
+- country: PL
+  ip: 195.114.173.153
+  provider: INTERNETIA-AS Netia SA
+  reverse: ns1.internetia.pl
+- country: PL
+  ip: 62.69.212.14
+  provider: INTERNETIA_ETTH2-AS Internetia Sp.z o.o.
+  reverse: dns.ipartner.com.pl
+- country: AU
+  ip: 106.68.52.142
+  provider: INTERNODE-AS Internode Pty Ltd,AU
+  reverse: 106-68-52-142.dyn.iinet.net.au
+- country: AU
+  ip: 106.68.208.254
+  provider: INTERNODE-AS Internode Pty Ltd,AU
+  reverse: 106-68-208-254.dyn.iinet.net.au
+- country: AU
+  ip: 124.169.49.38
+  provider: INTERNODE-AS Internode Pty Ltd,AU
+  reverse: 124-169-49-38.dyn.iinet.net.au
+- country: AU
+  ip: 118.211.102.69
+  provider: INTERNODE-AS Internode Pty Ltd,AU
+  reverse: 118.211.102.69
+- country: AU
+  ip: 124.168.49.219
+  provider: INTERNODE-AS Internode Pty Ltd,AU
+  reverse: 124-168-49-219.dyn.iinet.net.au
+- country: AU
+  ip: 203.59.10.181
+  provider: INTERNODE-AS Internode Pty Ltd,AU
+  reverse: 203-59-10-181.dyn.iinet.net.au
+- country: AU
+  ip: 121.44.130.141
+  provider: INTERNODE-AS Internode Pty Ltd,AU
+  reverse: ppp121-44-130-141.lns20.syd7.internode.on.net
+- country: AU
+  ip: 124.150.120.202
+  provider: INTERNODE-AS Internode Pty Ltd,AU
+  reverse: 124-150-120-202.dyn.iinet.net.au
+- country: AU
+  ip: 124.150.74.129
+  provider: INTERNODE-AS Internode Pty Ltd,AU
+  reverse: 124-150-74-129.dyn.iinet.net.au
+- country: AU
+  ip: 150.101.254.166
+  provider: INTERNODE-AS Internode Pty Ltd,AU
+  reverse: eth9383.sa.adsl.internode.on.net
+- country: AU
+  ip: 58.7.242.204
+  provider: INTERNODE-AS Internode Pty Ltd,AU
+  reverse: 58-7-242-204.dyn.iinet.net.au
+- country: AU
+  ip: 203.217.41.136
+  provider: INTERNODE-AS Internode Pty Ltd,AU
+  reverse: 203-217-41-136.dyn.iinet.net.au
+- country: RU
+  ip: 109.191.145.48
+  provider: INTERSVYAZ-AS Intersvyaz-2 JSC,RU
+  reverse: pool-109-191-145-48.is74.ru
+- country: RU
+  ip: 217.15.49.130
+  provider: INTFRM-AS Intinform Ltd.,RU
+  reverse: 217.15.49.130
+- country: FR
+  ip: 194.6.240.1
+  provider: INTRINSEC-AS INTRINSEC, France
+  reverse: ns1.intrinsec.com
+- country: FR
+  ip: 194.6.240.2
+  provider: INTRINSEC-AS INTRINSEC, France
+  reverse: ns2.intrinsec.com
+- country: GB
+  ip: 217.77.176.11
+  provider: IOMART-AS Iomart
+  reverse: ns2.titaninternet.co.uk
+- country: GB
+  ip: 212.84.181.99
+  provider: IOMART-AS Iomart
+  reverse: ns2.spellbox.net
+- country: GB
+  ip: 217.77.176.10
+  provider: IOMART-AS Iomart
+  reverse: ns1.titaninternet.co.uk
+- country: ES
+  ip: 80.66.119.20
+  provider: IPORIUM IPORIUM NETWORKS AS,ES
+  reverse: 80.66.119.20
+- country: ES
+  ip: 80.66.113.187
+  provider: IPORIUM IPORIUM NETWORKS AS,ES
+  reverse: 80.66.113.187
+- country: US
+  ip: 173.44.32.2
+  provider: IPTELLIGENT - IPTelligent LLC
+  reverse: 173.44.32.2
+- country: BR
+  ip: 189.38.95.96
+  provider: IPV6 Internet Ltda
+  reverse: dns2.gigadns.com.br
+- country: BR
+  ip: 189.38.95.95
+  provider: IPV6 Internet Ltda,BR
+  reverse: dns1.gigadns.com.br
+- country: DE
+  ip: 80.190.248.146
+  provider: IPX-SERVER IPX Server GmbH
+  reverse: ns.de.tuxbox.nu
+- country: US
+  ip: 204.152.184.76
+  provider: ISC-AS1280 Internet Systems Consortium, Inc.
+  reverse: f.6to4servers.net
+- country: RU
+  ip: 77.41.229.2
+  provider: ISI-AS OJSC _Vimpelcom_
+  reverse: www.pkmtel.ru
+- country: RU
+  ip: 82.199.102.38
+  provider: ISKRATELECOM-AS ISKRATELECOM ZAO
+  reverse: ohelp.ru
+- country: RU
+  ip: 84.51.90.249
+  provider: ISKRATELECOM-AS Iskratelecom CJSC,RU
+  reverse: 84.51.90.249
+- country: US
+  ip: 67.224.64.31
+  provider: ISOLVER - Internet Solver, Inc.
+  reverse: ns1.internetsolver.com
+- country: US
+  ip: 66.9.182.1
+  provider: ISPACE - Wave2Wave Communications, Inc
+  reverse: resolv1.il.central.us.intellispace.net
+- country: RU
+  ip: 77.240.144.164
+  provider: ITECH-AS OJSC _VimpelCom_
+  reverse: ns.chuvashia.ru
+- country: RU
+  ip: 84.237.27.1
+  provider: Institution of Russian Science Academy of Irkutsk Scientific Centre of
+    Siberian Department of RAN
+  reverse: irgups.ru
+- country: GB
+  ip: 212.118.241.1
+  provider: Internap European Autonomous System
+  reverse: ns1.lon.pnap.net
+- country: GB
+  ip: 212.118.241.33
+  provider: Internap European Autonomous System
+  reverse: ns2.lon.pnap.net
+- country: BR
+  ip: 201.54.113.248
+  provider: Internet by Sercomtel S.A.,BR
+  reverse: 201-54-113-248.sercomtel.com.br
+- country: FR
+  ip: 194.117.245.2
+  provider: JAGUAR-AS Jaguar Network SAS
+  reverse: rosco.vayu.net
+- country: ES
+  ip: 62.15.112.3
+  provider: JAZZNET Jazz Telecom S.A.,ES
+  reverse: 3.112.15.62.static.jazztel.es
+- country: ES
+  ip: 62.15.37.27
+  provider: JAZZNET Jazz Telecom S.A.,ES
+  reverse: 27.37.15.62.static.jazztel.es
+- country: BR
+  ip: 189.90.32.159
+  provider: Jupiter Telecomunicacoes e Informatica Ltda,BR
+  reverse: 189.90.32.159.jupiter.com.br
+- country: DE
+  ip: 149.172.250.198
+  provider: KABELBW-ASN Kabel BW GmbH,DE
+  reverse: hsi-kbw-149-172-250-198.hsi13.kabel-badenwuerttemberg.de
+- country: DE
+  ip: 149.172.64.64
+  provider: KABELBW-ASN Kabel BW GmbH,DE
+  reverse: hsi-kbw-149-172-64-64.hsi13.kabel-badenwuerttemberg.de
+- country: DE
+  ip: 95.208.84.20
+  provider: KABELBW-ASN Kabel BW GmbH,DE
+  reverse: hsi-kbw-095-208-084-020.hsi5.kabel-badenwuerttemberg.de
+- country: DE
+  ip: 109.193.227.74
+  provider: KABELBW-ASN Kabel BW GmbH,DE
+  reverse: hsi-kbw-109-193-227-074.hsi7.kabel-badenwuerttemberg.de
+- country: DE
+  ip: 212.110.122.132
+  provider: KAMP-DE KAMP Netzwerkdienste GmbH
+  reverse: dns01.reflact.com
+- country: RU
+  ip: 83.69.77.2
+  provider: KAVKAZ-TRANSTELECOM-AS CJSC _Caucasus - Transtelekom_
+  reverse: mail.inix.ru
+- country: JP
+  ip: 106.186.17.181
+  provider: KDDI KDDI CORPORATION
+  reverse: tungsten.gparent.org
+- country: GB
+  ip: 212.9.98.20
+  provider: KEYCOM-AS Keycom PLC
+  reverse: dns1.keycom.co.uk
+- country: GB
+  ip: 212.9.96.21
+  provider: KEYCOM-AS Keycom PLC
+  reverse: dns2.keycom.co.uk
+- country: DE
+  ip: 87.118.111.215
+  provider: KEYWEB-AS Keyweb AG
+  reverse: ns.crawford.de.fooldns.com
+- country: DE
+  ip: 195.160.231.230
+  provider: KEYWEB-AS Keyweb AG,DE
+  reverse: 195.160.231.230
+- country: RU
+  ip: 90.189.109.2
+  provider: KHAKAS-AS OJSC Rostelecom
+  reverse: ns.khakasnet.ru
+- country: KR
+  ip: 14.39.86.181
+  provider: KIXS-AS-KR Korea Telecom,KR
+  reverse: 14.39.86.181
+- country: KR
+  ip: 121.191.23.177
+  provider: KIXS-AS-KR Korea Telecom,KR
+  reverse: 121.191.23.177
+- country: KR
+  ip: 118.40.64.83
+  provider: KIXS-AS-KR Korea Telecom,KR
+  reverse: 118.40.64.83
+- country: KR
+  ip: 211.51.202.248
+  provider: KIXS-AS-KR Korea Telecom,KR
+  reverse: 211.51.202.248
+- country: KR
+  ip: 175.198.113.167
+  provider: KIXS-AS-KR Korea Telecom,KR
+  reverse: 175.198.113.167
+- country: KR
+  ip: 121.190.139.8
+  provider: KIXS-AS-KR Korea Telecom,KR
+  reverse: 121.190.139.8
+- country: RU
+  ip: 5.175.90.170
+  provider: KMTN-AS OJSC Kostroma Municipal Telephone Network,RU
+  reverse: 5.175.90.170
+- country: ES
+  ip: 82.199.32.36
+  provider: KNET Comunicaciones S.L.
+  reverse: dns2.knet.es
+- country: ES
+  ip: 82.199.32.34
+  provider: KNET Comunicaciones S.L.
+  reverse: dns1.knet.es
+- country: RU
+  ip: 195.244.25.3
+  provider: KOLCHUG-INFO-AS Kolchug-INFO Ltd.
+  reverse: www.kolchug.info
+- country: RU
+  ip: 195.24.228.3
+  provider: KOMPANIYA-METALLINVEST-AS Kompaniya Metallinvest Ltd.
+  reverse: ns1.m-invest.ru
+- country: KR
+  ip: 168.126.63.2
+  provider: KORNET-KR, Korea Telecom
+  reverse: kns2.kornet.net
+- country: KR
+  ip: 168.126.63.1
+  provider: KORNET-KR, Korea Telecom
+  reverse: kns.kornet.net
+- country: PL
+  ip: 62.108.161.200
+  provider: KOSMAN-EDU-AS Technical University of Koszalin
+  reverse: dns.koszalin.pl
+- country: RU
+  ip: 80.80.111.254
+  provider: KR-ROSTOV Mobile TeleSystems Open Joint Stock Company
+  reverse: ns.aaanet.ru
+- country: KR
+  ip: 125.181.75.162
+  provider: KRNIC-ASBLOCK-AP KRNIC,KR
+  reverse: 125.181.75.162
+- country: AM
+  ip: 178.72.187.67
+  provider: KT-AS Pimox LLC,AM
+  reverse: 178.72.187.67
+- country: RU
+  ip: 212.192.128.3
+  provider: KUBANNET State educational institution of higher education Kuban State
+    University
+  reverse: mail.kubannet.ru
+- country: RU
+  ip: 217.79.225.8
+  provider: LANCRONIX-AS LANCRONIX LTD
+  reverse: ns.lancronix.ru
+- country: DE
+  ip: 217.28.98.62
+  provider: LEITWERK-AS LEITWERK AG
+  reverse: ns.leitwerk.net
+- country: CH
+  ip: 212.203.33.12
+  provider: LEU-AS Leunet AG
+  reverse: 212.203.33.12
+- country: US
+  ip: 209.244.0.4
+  provider: LEVEL3 Level 3 Communications
+  reverse: resolver2.level3.net
+- country: US
+  ip: 4.2.2.6
+  provider: LEVEL3 Level 3 Communications
+  reverse: resolver8.level3.net
+- country: US
+  ip: 4.79.132.219
+  provider: LEVEL3 Level 3 Communications
+  reverse: ns1.sotelips.net
+- country: US
+  ip: 4.2.2.5
+  provider: LEVEL3 Level 3 Communications
+  reverse: e.resolvers.level3.net
+- country: US
+  ip: 212.3.252.131
+  provider: LEVEL3 Level 3 Communications
+  reverse: ns1.rack66.net
+- country: US
+  ip: 4.2.2.4
+  provider: LEVEL3 Level 3 Communications
+  reverse: d.resolvers.level3.net
+- country: US
+  ip: 4.2.2.2
+  provider: LEVEL3 Level 3 Communications
+  reverse: b.resolvers.level3.net
+- country: US
+  ip: 8.3.48.20
+  provider: LEVEL3 Level 3 Communications
+  reverse: dns1.linknetinc.com
+- country: US
+  ip: 4.2.2.3
+  provider: LEVEL3 Level 3 Communications
+  reverse: c.resolvers.level3.net
+- country: US
+  ip: 4.2.2.1
+  provider: LEVEL3 Level 3 Communications
+  reverse: a.resolvers.level3.net
+- country: US
+  ip: 209.244.0.3
+  provider: LEVEL3 Level 3 Communications
+  reverse: resolver1.level3.net
+- country: US
+  ip: 8.3.48.30
+  provider: LEVEL3 Level 3 Communications
+  reverse: dns2.linknetinc.com
+- country: US
+  ip: 209.0.205.11
+  provider: LEVEL3 Level 3 Communications
+  reverse: ns1.bigcity.net
+- country: DE
+  ip: 212.9.160.1
+  provider: LFNET-AS01 LF.net GmbH
+  reverse: ns.lf.net
+- country: AT
+  ip: 77.59.224.11
+  provider: LGI-UPC Liberty Global Operations B.V.
+  reverse: ns2.newday.ch
+- country: DE
+  ip: 78.94.185.132
+  provider: LGI-UPC Liberty Global Operations B.V.,AT
+  reverse: ip-78-94-185-132.hsi02.unitymediagroup.de
+- country: DE
+  ip: 217.147.51.229
+  provider: LGI-UPC Liberty Global Operations B.V.,AT
+  reverse: 217.147.51.229
+- country: FR
+  ip: 195.88.84.100
+  provider: LIAZO Liazo SARL
+  reverse: noc.toile-libre.net
+- country: US
+  ip: 216.81.128.132
+  provider: LIGHTEDGE - LightEdge Solutions
+  reverse: nscache3-mngt.dsm.lightedge.com
+- country: US
+  ip: 69.28.136.102
+  provider: LLNW-AS Limelight Networks, INC. proxy AS object
+  reverse: cachedns.phx1.llnw.net
+- country: US
+  ip: 69.28.148.102
+  provider: LLNW-AS Limelight Networks, INC. proxy AS object
+  reverse: cachedns.sjc.llnw.net
+- country: US
+  ip: 208.112.89.187
+  provider: LNH-INC - HostMySite
+  reverse: cache.dc2.hostmysite.net
+- country: RU
+  ip: 195.245.76.6
+  provider: LOGIKA-AS OOO NPP LOGIKA
+  reverse: gw1.logika.ru
+- country: US
+  ip: 147.126.240.2
+  provider: LOYOLA-UNIV-CHICAGO - Loyola University Chicago
+  reverse: luhsdns2.luhs.org
+- country: US
+  ip: 198.237.209.130
+  provider: LSNET - LS Networks
+  reverse: ns.coos.k12.or.us
+- country: GB
+  ip: 193.240.163.34
+  provider: LVLT-3549 - Level 3 Communications, Inc.,US
+  reverse: 193.240.163.34
+- country: BR
+  ip: 186.227.208.82
+  provider: Lobianco Telecom Informtica Ltda. ME,BR
+  reverse: 186.227.208.82
+- country: BR
+  ip: 177.8.231.150
+  provider: Lognet Telecomunicaes e Informtica Ltda,BR
+  reverse: 150.231.8.177.in-addr.arpa
+- country: RU
+  ip: 79.140.64.2
+  provider: MAGISTRALY-RU OJSC _Vimpelcom_
+  reverse: ns.magistraly.ru
+- country: RU
+  ip: 79.140.64.3
+  provider: MAGISTRALY-RU OJSC _Vimpelcom_
+  reverse: ns2.magistraly.ru
+- country: TH
+  ip: 202.28.162.1
+  provider: MAHIDOL-BORDER-AS Mahidol University, Thailand
+  reverse: ns1.mahidol.ac.th
+- country: GB
+  ip: 78.143.192.10
+  provider: MAILBOX Mailbox Networks
+  reverse: dnscache1.fast.co.uk
+- country: RU
+  ip: 188.114.194.2
+  provider: MAKSIM-AS MAKSIM Co. Ltd.
+  reverse: ns11.compot.ru
+- country: PL
+  ip: 94.72.64.11
+  provider: MARSOFT-AS Marsoft S.A.
+  reverse: dns2.marsoft.net
+- country: RU
+  ip: 85.249.45.253
+  provider: MASTERIT Master IT Ltd.
+  reverse: ns3.master.ru
+- country: RU
+  ip: 195.112.96.34
+  provider: MAXNET Autonomous System for
+  reverse: ns.maxnet.ru
+- country: US
+  ip: 199.249.18.1
+  provider: MCI-ASN - MCI
+  reverse: cache-ns2.verizonbusiness.com
+- country: US
+  ip: 199.249.19.1
+  provider: MCI-ASN - MCI
+  reverse: cache-ns1.verizonbusiness.com
+- country: GB
+  ip: 78.154.123.235
+  provider: MDNX - MDNX Internet Limited,GB
+  reverse: 78.154.123.235
+- country: GB
+  ip: 86.53.23.30
+  provider: MDNX - MDNX Internet Limited,GB
+  reverse: 86.53.23.30
+- country: GB
+  ip: 135.196.222.190
+  provider: MDNX - MDNX Internet Limited,GB
+  reverse: 135.196.222.190
+- country: GB
+  ip: 78.154.113.241
+  provider: MDNX - MDNX Internet Limited,GB
+  reverse: 78.154.113.241
+- country: RU
+  ip: 91.143.20.6
+  provider: MEGALOG-PLUS-AS Megalog-Plus Ltd
+  reverse: ns.megalog.ru
+- country: US
+  ip: 68.164.6.142
+  provider: MEGAPATH5-US - MegaPath Corporation,US
+  reverse: h-68-164-6-142.chcg.il.dynamic.megapath.net
+- country: US
+  ip: 35.8.2.41
+  provider: MERIT-AS-14 - Merit Network Inc.
+  reverse: serv1.cl.msu.edu
+- country: US
+  ip: 35.8.2.42
+  provider: MERIT-AS-14 - Merit Network Inc.
+  reverse: serv2.cl.msu.edu
+- country: US
+  ip: 35.8.98.43
+  provider: MERIT-AS-14 - Merit Network Inc.
+  reverse: serv3.cl.msu.edu
+- country: US
+  ip: 35.8.2.45
+  provider: MERIT-AS-14 - Merit Network Inc.
+  reverse: nmserv1.ats.msu.edu
+- country: DE
+  ip: 193.109.4.5
+  provider: MESSEFFM Messe Frankfurt GmbH
+  reverse: ns.messefrankfurt.com
+- country: DE
+  ip: 193.102.59.190
+  provider: MESSEFFM Messe Frankfurt GmbH
+  reverse: ns5.messefrankfurt.com
+- country: US
+  ip: 216.194.28.33
+  provider: METTEL - Metropolitan Telecomm
+  reverse: ns1.metconnect.net
+- country: RU
+  ip: 195.209.177.44
+  provider: MGIGANET-AS JSC Moscow Gigabit network,RU
+  reverse: 195.209.177.44
+- country: PL
+  ip: 195.225.36.16
+  provider: MICONET-AS Miconet Sp. z o.o.
+  reverse: dns1.miconet.pl
+- country: PL
+  ip: 195.225.36.2
+  provider: MICONET-AS Miconet Sp. z o.o.
+  reverse: dns.miconet.pl
+- country: US
+  ip: 65.220.16.14
+  provider: MICROCERV - MicroCerv
+  reverse: ns1.sysgrp.net
+- country: RU
+  ip: 91.219.165.168
+  provider: MICRON-MEDIA-AS Micron Media Ltd.,RU
+  reverse: 91.219.165.168.micmedia.ru
+- country: JP
+  ip: 203.112.2.5
+  provider: MIINET UCOM Corporation
+  reverse: ns02.miinet.jp
+- country: JP
+  ip: 203.112.2.4
+  provider: MIINET UCOM Corporation
+  reverse: ns01.miinet.jp
+- country: RU
+  ip: 194.50.10.2
+  provider: MKM-AS ZAO Moskabelmet
+  reverse: ck.mkm.ru
+- country: RU
+  ip: 95.64.233.101
+  provider: MKSBALASHIHI-AS Closed Joint Stock Company MultyKabelnie Seti Balashihi,RU
+  reverse: 95.64.233.101
+- country: BR
+  ip: 200.152.116.163
+  provider: MLS Wireless S/A,BR
+  reverse: mlsrj200152116p163.static.mls.com.br
+- country: RU
+  ip: 193.16.209.2
+  provider: MMK-AS OAO Magnitogorsk Iron and Steel works
+  reverse: ns2.mmk.ru
+- country: RU
+  ip: 193.16.208.114
+  provider: MMK-AS OAO Magnitogorsk Iron and Steel works
+  reverse: ns1.mmk.ru
+- country: CH
+  ip: 80.254.79.157
+  provider: MONZOON-AS Monzoon Networks AG
+  reverse: zrh1-ns01.monzoon.net
+- country: AU
+  ip: 122.105.158.52
+  provider: MPX-AS Microplex PTY LTD,AU
+  reverse: d122-105-158-52.adl801.sa.optusnet.com.au
+- country: AU
+  ip: 211.28.54.32
+  provider: MPX-AS Microplex PTY LTD,AU
+  reverse: c211-28-54-32.sunsh3.vic.optusnet.com.au
+- country: AU
+  ip: 220.237.40.237
+  provider: MPX-AS Microplex PTY LTD,AU
+  reverse: d220-237-40-237.mas801.nsw.optusnet.com.au
+- country: US
+  ip: 66.182.208.5
+  provider: MTL-19 - Millennium Telcom LLC
+  reverse: cache1.1scom.net
+- country: RU
+  ip: 82.204.186.250
+  provider: MTS MTS OJSC
+  reverse: mail.vs.ru
+- country: RU
+  ip: 83.242.140.10
+  provider: MTS MTS OJSC
+  reverse: rr1.comstar.ru
+- country: RU
+  ip: 194.54.148.129
+  provider: MTSNET MTS OJSC
+  reverse: mx.mts.ru
+- country: US
+  ip: 134.48.1.32
+  provider: MU-AS - Marquette University
+  reverse: dns1.mu.edu
+- country: PL
+  ip: 195.93.223.2
+  provider: MULTIMEDIA-AS Multimedia Polska S.A.
+  reverse: ns1.csm.pl
+- country: TW
+  ip: 219.71.235.252
+  provider: MULTIMEDIA-AS-AP Hoshin Multimedia Center Inc.,TW
+  reverse: 219-71-235-252.nkcatv.net.tw
+- country: ZA
+  ip: 196.2.45.101
+  provider: MWEB-12258
+  reverse: hurricane.mweb.co.za
+- country: MX
+  ip: 200.56.224.11
+  provider: Marcatel Com, S.A. de C.V.
+  reverse: ns.marcatel.com.mx
+- country: MX
+  ip: 200.66.96.1
+  provider: Maxcom Telecomunicaciones, S.A.B. de C.V.
+  reverse: dns.maxcom.net.mx
+- country: DE
+  ip: 193.151.35.1
+  provider: NACURA-AS nacura it-SERVICE GmbH & Co. KG
+  reverse: gw1-in.comsult.net
+- country: DE
+  ip: 193.151.32.40
+  provider: NACURA-AS nacura it-SERVICE GmbH & Co. KG
+  reverse: ns1.nacura.de
+- country: RU
+  ip: 37.110.17.29
+  provider: NCNET-AS OJSC Rostelecom,RU
+  reverse: broadband-37-110-17-29.nationalcablenetworks.ru
+- country: RU
+  ip: 95.84.224.188
+  provider: NCNET-AS OJSC Rostelecom,RU
+  reverse: broadband-95-84-224-188.nationalcablenetworks.ru
+- country: RU
+  ip: 178.140.126.116
+  provider: NCNET-AS OJSC Rostelecom,RU
+  reverse: broadband-178-140-126-116.nationalcablenetworks.ru
+- country: RU
+  ip: 178.140.19.121
+  provider: NCNET-AS OJSC Rostelecom,RU
+  reverse: broadband-178-140-19-121.nationalcablenetworks.ru
+- country: RU
+  ip: 37.110.36.134
+  provider: NCNET-AS OJSC Rostelecom,RU
+  reverse: broadband-37-110-36-134.nationalcablenetworks.ru
+- country: RU
+  ip: 5.228.139.0
+  provider: NCNET-AS OJSC Rostelecom,RU
+  reverse: broadband-5-228-139-0.nationalcablenetworks.ru
+- country: JP
+  ip: 218.223.32.1
+  provider: NDAC Global Network Core Co.,Ltd.
+  reverse: ns01.niigata-idc.ne.jp
+- country: BR
+  ip: 179.214.212.92
+  provider: NET Servios de Comunicao S.A.,BR
+  reverse: b3d6d45c.virtua.com.br
+- country: DE
+  ip: 37.221.193.195
+  provider: NETCUP-AS netcup GmbH
+  reverse: de2.godau.eu
+- country: CA
+  ip: 205.204.88.60
+  provider: NETELLIGENT - Netelligent Hosting Services Inc.
+  reverse: 84.blockaid.me
+- country: AU
+  ip: 122.201.69.72
+  provider: NETLOGISTICS-AU-AP Net Logistics Pty. Ltd.,AU
+  reverse: smtp.airtimesurveys.com
+- country: US
+  ip: 167.102.161.3
+  provider: NETWORKMARYLAND - networkMaryland,US
+  reverse: ccboe.com
+- country: US
+  ip: 207.69.188.184
+  provider: NEWEDGENETS - New Edge Networks
+  reverse: rns0.earthlink.net
+- country: US
+  ip: 207.217.77.82
+  provider: NEWEDGENETS - New Edge Networks
+  reverse: do-not-use-rns2.earthlink.net
+- country: US
+  ip: 207.69.188.189
+  provider: NEWEDGENETS - New Edge Networks
+  reverse: rns2.mcihispeed.net
+- country: US
+  ip: 207.217.120.83
+  provider: NEWEDGENETS - New Edge Networks
+  reverse: do-not-use-rns3.earthlink.net
+- country: US
+  ip: 207.69.188.172
+  provider: NEWEDGENETS - New Edge Networks
+  reverse: optns2.earthlink.net
+- country: US
+  ip: 207.69.188.188
+  provider: NEWEDGENETS - New Edge Networks
+  reverse: rns1.mcihispeed.net
+- country: US
+  ip: 206.51.143.55
+  provider: NKTC - NEW KNOXVILLE TELEPHONE COMPANY
+  reverse: ns2.nktelco.net
+- country: DK
+  ip: 195.189.130.1
+  provider: NMNET NM Net ApS
+  reverse: ns1.obox.dk
+- country: DK
+  ip: 83.97.97.3
+  provider: NMNET NM Net ApS
+  reverse: ns2.nmnet.dk
+- country: RU
+  ip: 217.72.1.2
+  provider: NNT-MOSCOW-AS Thyphone Communications LLC
+  reverse: ns.nnt.ru
+- country: US
+  ip: 64.29.0.30
+  provider: NO - Hilti Incorporated
+  reverse: scatha.us.hilti.com
+- country: ES
+  ip: 212.85.32.2
+  provider: NOVA_INTERNET_AS12521 Nova Internet Network
+  reverse: ns1.nova.es
+- country: ES
+  ip: 212.85.32.4
+  provider: NOVA_INTERNET_AS12521 Nova Internet Network
+  reverse: mx.nova.es
+- country: ES
+  ip: 212.85.32.3
+  provider: NOVA_INTERNET_AS12521 Nova Internet Network
+  reverse: ns3.nova.es
+- country: RU
+  ip: 217.79.62.242
+  provider: NSC Institute of Computational Technologies of SB RAS,RU
+  reverse: mail.cnmt.ru
+- country: US
+  ip: 216.237.221.42
+  provider: NSTELCO - North State Telephone Co.
+  reverse: dns3.nstel.com
+- country: CH
+  ip: 79.141.83.250
+  provider: NTD-AS NTD SA
+  reverse: ns3.ntd.ch
+- country: CH
+  ip: 79.141.81.250
+  provider: NTD-AS NTD SA
+  reverse: ns1.ntd.ch
+- country: CH
+  ip: 79.141.82.250
+  provider: NTD-AS NTD SA
+  reverse: ns2.ntd.ch
+- country: GB
+  ip: 82.42.72.23
+  provider: NTL Virgin Media Limited,GB
+  reverse: cpc5-linl7-0-0-cust22.18-2.cable.virginm.net
+- country: GB
+  ip: 82.39.30.203
+  provider: NTL Virgin Media Limited,GB
+  reverse: cpc1-grth9-0-0-cust202.16-4.cable.virginm.net
+- country: RU
+  ip: 85.119.74.2
+  provider: NTSI-AS NTSI Telecom Ltd
+  reverse: ns.ntsi-telecom.ru
+- country: RU
+  ip: 85.119.72.2
+  provider: NTSI-AS NTSI Telecom Ltd
+  reverse: www.ntsias.ru
+- country: US
+  ip: 129.250.35.250
+  provider: NTT-COMMUNICATIONS-2914 - NTT America, Inc.
+  reverse: x.ns.gin.ntt.net
+- country: US
+  ip: 129.250.35.251
+  provider: NTT-COMMUNICATIONS-2914 - NTT America, Inc.
+  reverse: y.ns.gin.ntt.net
+- country: US
+  ip: 64.94.100.115
+  provider: NUCLEARFALLOUT-LAX - Nuclearfallout Enterprises, Inc.
+  reverse: gatela.ns.alohadns.com
+- country: IL
+  ip: 209.88.198.133
+  provider: NV-ASN 013 NetVision Ltd.
+  reverse: 209.88.198.133
+- country: US
+  ip: 66.81.1.252
+  provider: O1COMM - O1.com
+  reverse: ns4.o1.com
+- country: IE
+  ip: 62.40.32.34
+  provider: O2 Ireland
+  reverse: dns2.o2.ie
+- country: IE
+  ip: 62.40.32.33
+  provider: O2 Ireland
+  reverse: dns1.o2.ie
+- country: DE
+  ip: 212.102.225.2
+  provider: OBIS Oberberg-Online Informationssysteme GmbH
+  reverse: ns.oberberg-online.de
+- country: GB
+  ip: 195.74.128.6
+  provider: OBSL-AS TalkTalk Communications Limited
+  reverse: res03.opal-solutions.com
+- country: GB
+  ip: 62.8.96.38
+  provider: OBSL-AS TalkTalk Communications Limited
+  reverse: res04.opal-solutions.com
+- country: GB
+  ip: 195.12.4.247
+  provider: OBSL-AS TalkTalk Communications Limited
+  reverse: res08.opal-solutions.com
+- country: GB
+  ip: 213.83.69.65
+  provider: OBSL-AS TalkTalk Communications Limited,GB
+  reverse: mail.bromak.com
+- country: US
+  ip: 72.11.150.10
+  provider: OC3-NETWORKS-AS-NUMBER Web Africa Proxy aut-num object
+  reverse: 72.11.150.10.static.quadranet.com
+- country: US
+  ip: 72.11.150.74
+  provider: OC3-NETWORKS-AS-NUMBER Web Africa Proxy aut-num object
+  reverse: 72.11.150.74.static.quadranet.com
+- country: US
+  ip: 205.172.19.79
+  provider: OCEANIC-CABLE - Oceanic Cable
+  reverse: dns2.oceanic.net
+- country: JP
+  ip: 220.110.92.202
+  provider: OCN NTT Communications Corporation
+  reverse: ns.marine-onair.net
+- country: JP
+  ip: 222.151.241.10
+  provider: OCN NTT Communications Corporation
+  reverse: ns.meigan.co.jp
+- country: JP
+  ip: 61.208.115.242
+  provider: OCN NTT Communications Corporation
+  reverse: ns.wjc-news.co.jp
+- country: JP
+  ip: 60.32.112.42
+  provider: OCN NTT Communications Corporation
+  reverse: ns.daiwa-printing.co.jp
+- country: DE
+  ip: 62.152.168.253
+  provider: ODR-TKG-AS ODR Technologie Services GmbH
+  reverse: ns1.enweb.de
+- country: US
+  ip: 209.143.0.10
+  provider: OHIOBRIGHTNET - Com Net, Inc.
+  reverse: primary.dns.bright.net
+- country: US
+  ip: 209.143.22.182
+  provider: OHIOBRIGHTNET - Com Net, Inc.
+  reverse: bacchus.bright.net
+- country: TR
+  ip: 213.184.0.50
+  provider: OLMAN-EDU-AS OLMAN, Metropolitan Area Network (educational AS)
+  reverse: zeus.uwm.edu.pl
+- country: TR
+  ip: 213.184.0.42
+  provider: OLMAN-EDU-AS OLMAN, Metropolitan Area Network (educational AS)
+  reverse: dns1.uwm.edu.pl
+- country: ES
+  ip: 92.43.224.1
+  provider: OMNIACCESS-AS OmniAccess S.L.
+  reverse: eth0-1.sinatra.ono.omniaccess.com
+- country: DE
+  ip: 212.227.103.36
+  provider: ONEANDONE-AS 1&1 Internet AG,DE
+  reverse: s17406608.onlinehome-server.info
+- country: DE
+  ip: 217.160.208.32
+  provider: ONEANDONE-AS 1&1 Internet AG,DE
+  reverse: securibay.com
+- country: GB
+  ip: 109.228.8.105
+  provider: ONEANDONE-AS 1&1 Internet AG,DE
+  reverse: server109-228-8-105.live-servers.net
+- country: GB
+  ip: 217.174.254.169
+  provider: ONEANDONE-AS 1&1 Internet AG,DE
+  reverse: server217-174-254-169.live-servers.net
+- country: DE
+  ip: 87.106.181.198
+  provider: ONEANDONE-AS 1&1 Internet AG,DE
+  reverse: mail.aesse.fr
+- country: GB
+  ip: 88.208.201.95
+  provider: ONEANDONE-AS 1&1 Internet AG,DE
+  reverse: server88-208-201-95.live-servers.net
+- country: GB
+  ip: 217.174.249.64
+  provider: ONEANDONE-AS 1&1 Internet AG,DE
+  reverse: mail.christianfocus.com
+- country: US
+  ip: 208.48.253.106
+  provider: ONECLEVELAND - OneCleveland
+  reverse: ns1.onecleveland.org
+- country: GB
+  ip: 84.43.102.97
+  provider: ONETEL-AS TalkTalk Communications Limited,GB
+  reverse: 84.43.102.97
+- country: ES
+  ip: 5.40.214.97
+  provider: ONO-AS Cableuropa - ONO,ES
+  reverse: 5.40.214.97.static.user.ono.com
+- country: ES
+  ip: 62.82.220.41
+  provider: ONO-AS Cableuropa - ONO,ES
+  reverse: 62.82.220.41.static.user.ono.com
+- country: ES
+  ip: 84.120.34.253
+  provider: ONO-AS Cableuropa - ONO,ES
+  reverse: 84.120.34.253.dyn.user.ono.com
+- country: ES
+  ip: 62.175.252.194
+  provider: ONO-AS Cableuropa - ONO,ES
+  reverse: 62.175.252.194.static.user.ono.com
+- country: ES
+  ip: 62.82.201.144
+  provider: ONO-AS Cableuropa - ONO,ES
+  reverse: 62.82.201.144.static.user.ono.com
+- country: ES
+  ip: 62.82.210.161
+  provider: ONO-AS Cableuropa - ONO,ES
+  reverse: 62.82.210.161.static.user.ono.com
+- country: ES
+  ip: 84.127.230.153
+  provider: ONO-AS Cableuropa - ONO,ES
+  reverse: 84.127.230.153.static.user.ono.com
+- country: ES
+  ip: 5.40.113.221
+  provider: ONO-AS Cableuropa - ONO,ES
+  reverse: 5.40.113.221.static.user.ono.com
+- country: ES
+  ip: 185.28.140.193
+  provider: ONO-AS Cableuropa - ONO,ES
+  reverse: 185.28.140.193
+- country: ES
+  ip: 5.40.22.195
+  provider: ONO-AS Cableuropa - ONO,ES
+  reverse: 5.40.22.195.static.user.ono.com
+- country: ES
+  ip: 212.79.129.228
+  provider: ONO-AS Cableuropa - ONO,ES
+  reverse: 212.79.129.228.static.user.ono.com
+- country: ES
+  ip: 62.82.210.252
+  provider: ONO-AS Cableuropa - ONO,ES
+  reverse: 62.82.210.252.static.user.ono.com
+- country: ES
+  ip: 5.40.22.198
+  provider: ONO-AS Cableuropa - ONO,ES
+  reverse: 5.40.22.198.static.user.ono.com
+- country: ES
+  ip: 62.82.220.134
+  provider: ONO-AS Cableuropa - ONO,ES
+  reverse: 62.82.220.134.static.user.ono.com
+- country: GB
+  ip: 195.97.238.21
+  provider: ONYX Onyx Group,GB
+  reverse: 195-97-238-21.onyx.net
+- country: US
+  ip: 208.67.220.222
+  provider: OPENDNS - OpenDNS, LLC
+  reverse: resolver4.opendns.com
+- country: US
+  ip: 208.67.222.222
+  provider: OPENDNS - OpenDNS, LLC
+  reverse: resolver1.opendns.com
+- country: US
+  ip: 208.67.222.123
+  provider: OPENDNS - OpenDNS, LLC
+  reverse: resolver1-fs.opendns.com
+- country: US
+  ip: 208.67.222.220
+  provider: OPENDNS - OpenDNS, LLC
+  reverse: resolver3.opendns.com
+- country: US
+  ip: 208.67.220.220
+  provider: OPENDNS - OpenDNS, LLC
+  reverse: resolver2.opendns.com
+- country: US
+  ip: 208.67.220.123
+  provider: OPENDNS - OpenDNS, LLC
+  reverse: resolver2-fs.opendns.com
+- country: GB
+  ip: 2.24.179.124
+  provider: ORANGE-PCS Orange Personal Communications Services,GB
+  reverse: 2.24.179.124
+- country: GB
+  ip: 2.27.180.37
+  provider: ORANGE-PCS Orange Personal Communications Services,GB
+  reverse: 2.27.180.37
+- country: GB
+  ip: 80.88.200.119
+  provider: ORBITAL-ASN OrbitalNet Ltd
+  reverse: charlie.orbitalnet.co.uk
+- country: ES
+  ip: 80.84.132.100
+  provider: OVERON-SPAIN-AS Servicios Audiovisuales Overon S.L.,ES
+  reverse: 80.84.132.100
+- country: FR
+  ip: 178.32.51.4
+  provider: OVH OVH SAS,FR
+  reverse: 178-32-51-4.ovh.net
+- country: CA
+  ip: 167.114.3.187
+  provider: OVH OVH SAS,FR
+  reverse: mail.cargolord.co.uk
+- country: CA
+  ip: 192.99.198.183
+  provider: OVH OVH SAS,FR
+  reverse: ns1.tikan.net
+- country: FR
+  ip: 213.251.133.164
+  provider: OVH OVH Systems
+  reverse: ks31884.kimsufi.com
+- country: MX
+  ip: 200.57.2.108
+  provider: Operbes, S.A. de C.V.
+  reverse: dns1.bestel.com.mx
+- country: MX
+  ip: 200.57.7.61
+  provider: Operbes, S.A. de C.V.
+  reverse: dns2.bestel.com.mx
+- country: CA
+  ip: 209.250.128.6
+  provider: PATHWAY - Pathway Communications
+  reverse: typhon.tor.pathcom.com
+- country: AU
+  ip: 210.23.129.34
+  provider: PI-AU Pacific Internet (Australia) Pty Ltd
+  reverse: ns2.pacific.net.au
+- country: JP
+  ip: 203.143.250.241
+  provider: PI-AU Pacific Internet (Australia) Pty Ltd,JP
+  reverse: ppp27f1.dsl.pacific.net.au
+- country: RU
+  ip: 46.161.32.3
+  provider: PIN-AS Petersburg Internet Network LLC
+  reverse: ns1.nx0.ru
+- country: PL
+  ip: 89.191.149.2
+  provider: PL-BYDMAN-COM Commercial Users
+  reverse: dns1.tvkablowa.com.pl
+- country: GB
+  ip: 80.229.33.202
+  provider: PLUSNET PlusNet plc.,GB
+  reverse: hh75timingroom.plus.com
+- country: DE
+  ip: 91.202.43.171
+  provider: PLUTEX PLUTEX GmbH,DE
+  reverse: 91-202-43-171.static.plutex.de
+- country: GB
+  ip: 217.27.240.20
+  provider: POBOX-AS POBox Hosting Limited
+  reverse: nscache0.pobox.co.uk
+- country: FR
+  ip: 217.151.0.50
+  provider: POLIRIS-AS POLIRIS
+  reverse: ns.poliris.net
+- country: FR
+  ip: 217.151.0.195
+  provider: POLIRIS-AS POLIRIS
+  reverse: ns2-new.poliris.net
+- country: CA
+  ip: 209.90.160.222
+  provider: PRIMUS-AS6407 - Primus Telecommunications Canada Inc.
+  reverse: ns2.primus.ca
+- country: CA
+  ip: 216.254.141.13
+  provider: PRIMUS-AS6407 - Primus Telecommunications Canada Inc.
+  reverse: dnscache1.tor.primus.ca
+- country: CA
+  ip: 216.254.141.2
+  provider: PRIMUS-AS6407 - Primus Telecommunications Canada Inc.
+  reverse: ns1.primus.ca
+- country: CA
+  ip: 64.72.224.34
+  provider: PRIMUS-AS6407 - Primus Telecommunications Canada Inc.
+  reverse: m1.comm100email9.com
+- country: US
+  ip: 206.124.1.254
+  provider: PRIVATEI - privateI, LLC
+  reverse: ns-3.dimensional.com
+- country: DE
+  ip: 82.96.65.2
+  provider: PROBENETWORKS-AS Probe Networks
+  reverse: trance.probe-networks.de
+- country: DE
+  ip: 82.96.81.10
+  provider: PROBENETWORKS-AS Probe Networks
+  reverse: ns1.ec-c.net
+- country: DE
+  ip: 82.96.86.20
+  provider: PROBENETWORKS-AS Probe Networks
+  reverse: 82.96.86.20
+- country: ES
+  ip: 46.37.89.127
+  provider: PROCONO-AS PROCONO S.A.,ES
+  reverse: 127.red.89.37.46.procono.es
+- country: ES
+  ip: 212.225.223.198
+  provider: PROCONO-AS PROCONO S.A.,ES
+  reverse: 198.red.223.225.212.procono.es
+- country: RU
+  ip: 85.235.199.199
+  provider: PROMETEY Prometey Ltd. Autonomous System
+  reverse: ns.rustest.spb.ru
+- country: BR
+  ip: 186.224.32.6
+  provider: Portal Medianeira Informtica Ltda,BR
+  reverse: 186.224.32.6
+- country: AR
+  ip: 201.213.3.8
+  provider: Prima S.A.,AR
+  reverse: 201-213-3-8.net.prima.net.ar
+- country: SG
+  ip: 120.50.44.141
+  provider: QALA-SG-AP M1 CONNECT PTE. LTD.
+  reverse: 141.44.50.120.static.idc.qala.com.sg
+- country: DE
+  ip: 213.160.6.254
+  provider: QSC-1 QSC AG,DE
+  reverse: port-213-160-6-254.static.qsc.de
+- country: DE
+  ip: 195.234.230.67
+  provider: QUALITYHOSTING-AS QualityHosting AG
+  reverse: ns0.iquer.net
+- country: ES
+  ip: 83.165.209.189
+  provider: R Cable y Telecomunicaciones Galicia, S.A.,ES
+  reverse: 189.209.165.83.static.mundo-r.com
+- country: CA
+  ip: 66.163.0.173
+  provider: RADIANT-TORONTO - Radiant Communications Canada Ltd.
+  reverse: 66-163-0-173.ip.tor.radiant.net
+- country: CA
+  ip: 66.163.0.161
+  provider: RADIANT-TORONTO - Radiant Communications Canada Ltd.
+  reverse: 66-163-0-161.ip.tor.radiant.net
+- country: CA
+  ip: 96.44.213.44
+  provider: RADIANT-TORONTO - Radiant Communications Canada Ltd.,CA
+  reverse: 96-44-213-44.ip.tor.radiant.net
+- country: CA
+  ip: 96.44.230.61
+  provider: RADIANT-TORONTO - Radiant Communications Canada Ltd.,CA
+  reverse: 96-44-230-61.ip.tor.radiant.net
+- country: CA
+  ip: 96.44.216.48
+  provider: RADIANT-TORONTO - Radiant Communications Canada Ltd.,CA
+  reverse: 96-44-216-48.ip.tor.radiant.net
+- country: CA
+  ip: 69.46.186.36
+  provider: RADIANT-TORONTO - Radiant Communications Canada Ltd.,CA
+  reverse: 69-46-186-36.ip.tor.radiant.net
+- country: CA
+  ip: 192.184.24.185
+  provider: RADIANT-TORONTO - Radiant Communications Canada Ltd.,CA
+  reverse: 192-184-24-185.ip.tor.radiant.net
+- country: CA
+  ip: 23.249.113.229
+  provider: RADIANT-TORONTO - Radiant Communications Canada Ltd.,CA
+  reverse: 23-249-113-229.ip.tor.radiant.net
+- country: CA
+  ip: 104.153.142.213
+  provider: RADIANT-TORONTO - Radiant Communications Canada Ltd.,CA
+  reverse: 104-153-142-213.ip.tor.radiant.net
+- country: CA
+  ip: 216.21.128.22
+  provider: RADIANT-VANCOUVER - Radiant Communications Ltd.
+  reverse: dns1.van.radiant.net
+- country: CA
+  ip: 216.21.129.22
+  provider: RADIANT-VANCOUVER - Radiant Communications Ltd.
+  reverse: dns2.van.radiant.net
+- country: CA
+  ip: 162.255.251.230
+  provider: RADIANT-VANCOUVER - Radiant Communications Ltd.,CA
+  reverse: 162-255-251-230.ip.van.radiant.net
+- country: EU
+  ip: 194.67.74.2
+  provider: RADIO-MSU RADIO-MSU
+  reverse: ugw.inr.troitsk.ru
+- country: PL
+  ip: 193.111.144.161
+  provider: RAMAN Politechnika Radomska Im.Kazimierza Pulaskiego
+  reverse: prsrv2.uthrad.pl
+- country: RU
+  ip: 195.158.239.4
+  provider: RANT-AS ZAO Republic Joint-stock Independent Telecompany
+  reverse: ns.rantcom.ru
+- country: US
+  ip: 66.250.192.11
+  provider: RAPIDDSL--WIRELESS - RapidDSL & Wireless
+  reverse: ns1.rapiddsl.net
+- country: CA
+  ip: 205.151.69.200
+  provider: RAPIDUS - COGECO Cable Canada Inc.
+  reverse: ns1.cgocable.ca
+- country: US
+  ip: 216.131.94.5
+  provider: RBLHST - Reliablehosting.com
+  reverse: ns1.oakweb.com
+- country: US
+  ip: 208.59.89.21
+  provider: RCN-AS - RCN
+  reverse: mortis.dns.rcn.net
+- country: US
+  ip: 208.59.89.20
+  provider: RCN-AS - RCN
+  reverse: groo.dns.rcn.net
+- country: US
+  ip: 209.213.223.18
+  provider: RELIANCEGLOBALCOM - Reliance Globalcom Services, Inc
+  reverse: eth0.pal001dn01.yipes.com
+- country: US
+  ip: 66.7.160.122
+  provider: RELIANCEGLOBALCOM - Reliance Globalcom Services, Inc
+  reverse: 66.7.160.122
+- country: PL
+  ip: 91.196.8.2
+  provider: RES-PL RES.PL ISP S.C.
+  reverse: dns1.res.pl
+- country: PL
+  ip: 195.13.38.3
+  provider: RETSAT STK Retsat1
+  reverse: dns2.retsat1.com.pl
+- country: US
+  ip: 209.97.224.3
+  provider: REVEAL - REVEAL SYSTEMS INC
+  reverse: ns2.revealsystems.net
+- country: RU
+  ip: 46.249.8.73
+  provider: RIALCOM-AS Rial Com JSC,RU
+  reverse: 46.249.8.73
+- country: DE
+  ip: 213.178.0.33
+  provider: RIPE riconet GmbH
+  reverse: ns.imsc.net
+- country: US
+  ip: 206.248.60.170
+  provider: RISE-TX-AS36049 - JAB Wireless, INC.,US
+  reverse: client-206.248.60.170.skybeam.com
+- country: US
+  ip: 64.233.128.11
+  provider: RITTERNET - Ritter Communications, Inc.
+  reverse: ns2.ritternet.com
+- country: DE
+  ip: 194.172.160.4
+  provider: RITTERNET Baumann Technologie GmbH
+  reverse: mci004.btnet.de
+- country: CA
+  ip: 174.114.184.60
+  provider: ROGERS-CABLE - Rogers Cable Communications Inc.,CA
+  reverse: cpe788df7e37ff1-cm788df7e37ff0.cpe.net.cable.rogers.com
+- country: RU
+  ip: 217.22.172.10
+  provider: ROILCOM-AS ROILCOM LTD
+  reverse: ns.nica.ru
+- country: RU
+  ip: 62.217.164.1
+  provider: ROOTELECOM ROOTelecom Autonomous System
+  reverse: 62.217.164.1
+- country: RU
+  ip: 87.226.215.82
+  provider: ROSTELECOM-AS OJSC Rostelecom,RU
+  reverse: 87.226.215.82
+- country: RU
+  ip: 80.93.177.182
+  provider: RSSP-AS OOO Lira-S
+  reverse: ns1.rsspnet.ru
+- country: RU
+  ip: 195.69.65.98
+  provider: RU-DINET-F1 _DiSat_ Ltd.
+  reverse: hosting.d-v.ru
+- country: RU
+  ip: 212.41.3.147
+  provider: RU-KTS-AS Krastelecomservice Ltd.
+  reverse: 212.41.3.147
+- country: RU
+  ip: 212.57.190.166
+  provider: RU-SURNET OJSC Rostelecom
+  reverse: host.mpautina.ru
+- country: RU
+  ip: 62.148.228.2
+  provider: RU-SURNET OJSC Rostelecom
+  reverse: ns.vega-int.ru
+- country: RU
+  ip: 195.209.228.37
+  provider: RUNNET State Institute of Information Technologies and
+  reverse: ns2.utelcom.ru
+- country: RU
+  ip: 194.226.211.11
+  provider: RUNNET State Institute of Information Technologies and
+  reverse: ns.herzen.spb.ru
+- country: IN
+  ip: 103.242.152.38
+  provider: RVRNET-AS RVR Infrastructure Limited Service provider hyderabad india,IN
+  reverse: 103.242.152.38
+- country: RU
+  ip: 88.147.158.1
+  provider: SAN-AS OJSC Rostelecom
+  reverse: balakovo.san.ru
+- country: DE
+  ip: 213.164.38.66
+  provider: SATEC SATEC AS
+  reverse: maruja.satec.es
+- country: RU
+  ip: 178.161.146.10
+  provider: SATURN-R-AS OOO Saturn-R
+  reverse: 178.161.146.10.ipn.v4.saturn-internet.ru
+- country: US
+  ip: 151.164.1.8
+  provider: SBIS-AS AS for SBIS-AS
+  reverse: dns1.rcsntx.sbcglobal.net
+- country: TW
+  ip: 210.64.28.53
+  provider: SEEDNET Digital United Inc.,TW
+  reverse: 210-64-28-53.adsl.static.seed.net.tw
+- country: TW
+  ip: 116.241.3.161
+  provider: SEEDNET Digital United Inc.,TW
+  reverse: 116-241-3-161.cctv.dynamic.tbcnet.net.tw
+- country: TW
+  ip: 61.59.225.184
+  provider: SEEDNET Digital United Inc.,TW
+  reverse: sw59-225-184.adsl.dynamic.seed.net.tw
+- country: US
+  ip: 216.93.191.228
+  provider: SERVEPATH - GoGrid, LLC
+  reverse: cache01.ns.witopia.net
+- country: US
+  ip: 65.210.29.34
+  provider: SERVICEARGOS - SERVICE ARGOS INC
+  reverse: dns1.argosinc.com
+- country: ES
+  ip: 84.236.193.105
+  provider: SERVIHOSTING-AS ServiHosting Networks S.L.,ES
+  reverse: 84.236.193.105
+- country: ES
+  ip: 88.148.20.2
+  provider: SERVIHOSTING-AS ServiHosting Networks S.L.,ES
+  reverse: 88.148.20.2
+- country: ES
+  ip: 5.154.53.100
+  provider: SERVIHOSTING-AS ServiHosting Networks S.L.,ES
+  reverse: 5.154.53.100
+- country: CA
+  ip: 184.70.233.242
+  provider: SHAW - Shaw Communications Inc.,CA
+  reverse: mail.compglass.com
+- country: CA
+  ip: 96.54.33.82
+  provider: SHAW - Shaw Communications Inc.,CA
+  reverse: s0106000c421defb7.gv.shawcable.net
+- country: CA
+  ip: 68.149.80.102
+  provider: SHAW - Shaw Communications Inc.,CA
+  reverse: s010600a0c5e5955d.ed.shawcable.net
+- country: CA
+  ip: 184.71.241.214
+  provider: SHAW - Shaw Communications Inc.,CA
+  reverse: mail.josue.ca
+- country: CH
+  ip: 217.148.0.17
+  provider: SHLINK-CH-AS my-ch.net Autonomous System
+  reverse: ns2.my-ch.net
+- country: RU
+  ip: 213.128.216.115
+  provider: SIBINTEK-VORONEZH-AS Siberian Internet Company
+  reverse: ns.vfsibintek.ru
+- country: GB
+  ip: 213.229.71.101
+  provider: SIMPLYTRANSIT Simply Transit Ltd,GB
+  reverse: cloudtdf.errediesse.net
+- country: PL
+  ip: 91.189.0.2
+  provider: SKOMUR-AS _Skomur_ J. K. Pruscy, D. P. Kaczmarek
+  reverse: szwagier.netburg.pl
+- country: PL
+  ip: 91.189.0.5
+  provider: SKOMUR-AS _Skomur_ J. K. Pruscy, D. P. Kaczmarek
+  reverse: ns2.skomur.pl
+- country: RU
+  ip: 195.46.39.40
+  provider: SKYDNS-AS SkyDNS, Ltd.
+  reverse: dns2.safedns.com
+- country: RU
+  ip: 195.46.39.39
+  provider: SKYDNS-AS SkyDNS, Ltd.
+  reverse: dns1.safedns.com
+- country: RU
+  ip: 188.242.243.195
+  provider: SKYNET-SPB-AS SkyNet Ltd.,RU
+  reverse: 188.242.243.195.pool.sknt.ru
+- country: RU
+  ip: 188.243.102.43
+  provider: SKYNET-SPB-AS SkyNet Ltd.,RU
+  reverse: 188.243.102.43.pool.sknt.ru
+- country: GB
+  ip: 193.36.34.44
+  provider: SLP-AS Sandwell Metropolitan Borough Council,GB
+  reverse: 193.36.34.44
+- country: US
+  ip: 216.106.1.2
+  provider: SOCKET - Socket Internet Services Corporation
+  reverse: ns1.socket.net
+- country: US
+  ip: 50.116.28.138
+  provider: SOFTLAYER - SoftLayer Technologies Inc.
+  reverse: li490-138.members.linode.com
+- country: US
+  ip: 50.116.23.211
+  provider: SOFTLAYER - SoftLayer Technologies Inc.
+  reverse: www.eqnic.net
+- country: TW
+  ip: 219.85.228.78
+  provider: SONET-TW Sony Network Taiwan Limited,TW
+  reverse: 219-85-228-78-adsl-khh.dynamic.so-net.net.tw
+- country: US
+  ip: 207.15.68.164
+  provider: SPCS - Sprint Personal Communications Systems
+  reverse: osscdns01.spcsdns.net
+- country: US
+  ip: 207.15.68.36
+  provider: SPCS - Sprint Personal Communications Systems
+  reverse: osscdns02.spcsdns.net
+- country: RU
+  ip: 80.79.179.2
+  provider: SPIN CJSC Race Telecom
+  reverse: ns2.altegrosky.ru
+- country: AU
+  ip: 203.23.236.66
+  provider: SPIN-INTERNET-AP Spin Internet Service
+  reverse: comcen.comcen.com.au
+- country: DE
+  ip: 80.79.236.81
+  provider: SPRINT Telenec Telekommunikation Neustadt GmbH,DE
+  reverse: 80.79.236.81
+- country: RU
+  ip: 85.175.100.80
+  provider: STC-AS OJSC Rostelecom,RU
+  reverse: 85.175.100.80
+- country: RU
+  ip: 91.205.208.49
+  provider: STELS-COMMUNICATIONS-AS Kommunikatsyi Stels Ltd.
+  reverse: 91.205.208.49
+- country: US
+  ip: 216.106.184.6
+  provider: STS-TELECOM-AS-1 - STS TELECOM
+  reverse: rs2.ststelecom.com
+- country: RU
+  ip: 81.200.5.165
+  provider: SU29-AS ISP _Gorcom_
+  reverse: 81.200.5.165
+- country: GB
+  ip: 212.54.160.7
+  provider: SURELINE-COMMUNICATIONS-UK Sureline Communications Limited
+  reverse: ns0.sureline.net
+- country: DE
+  ip: 85.88.19.10
+  provider: SURFPLANET-AS Surfplanet GmbH
+  reverse: ns.x-ns.de
+- country: DE
+  ip: 217.117.111.1
+  provider: SURFPLANET-AS Surfplanet GmbH
+  reverse: ns1.uniserve.de
+- country: DE
+  ip: 85.88.19.11
+  provider: SURFPLANET-AS Surfplanet GmbH
+  reverse: ns3.x-ns.de
+- country: RU
+  ip: 62.165.33.250
+  provider: SUTTK-AS Southern Urals TransTelecom Regional Office of TransTelecom Largest
+    fiber-optic carrier ISP/ASP Chelyabinsk, Russia
+  reverse: ns1.suttk.ru
+- country: RU
+  ip: 62.165.32.250
+  provider: SUTTK-AS Southern Urals TransTelecom Regional Office of TransTelecom Largest
+    fiber-optic carrier ISP/ASP Chelyabinsk, Russia
+  reverse: ns.suttk.ru
+- country: RU
+  ip: 109.106.136.30
+  provider: SVYAZ-TELECOM-AS Svyaz-Telecom Ltd.,RU
+  reverse: 109.106.136.30
+- country: CH
+  ip: 195.186.1.110
+  provider: SWISSCOM Swisscom (Switzerland) Ltd
+  reverse: dns1.bluewin.ch
+- country: CH
+  ip: 195.186.4.110
+  provider: SWISSCOM Swisscom (Switzerland) Ltd
+  reverse: dns3.bluewin.ch
+- country: CH
+  ip: 195.186.4.111
+  provider: SWISSCOM Swisscom (Switzerland) Ltd
+  reverse: dns4.bluewin.ch
+- country: CH
+  ip: 195.186.1.111
+  provider: SWISSCOM Swisscom (Switzerland) Ltd
+  reverse: dns2.bluewin.ch
+- country: CH
+  ip: 46.14.83.43
+  provider: SWISSCOM Swisscom (Switzerland) Ltd,CH
+  reverse: 43.83.14.46.dynamic.wline.lns.sme.cust.swisscom.ch
+- country: US
+  ip: 209.251.33.2
+  provider: SYSSRC - System Source
+  reverse: dns.syssrc.com
+- country: BR
+  ip: 131.72.125.110
+  provider: Speedzone Telecomunicaes Ltda,BR
+  reverse: 131-72-125-110.speedzone.com.br
+- country: US
+  ip: 209.188.121.101
+  provider: TAOSNET-NEWMEX - TAOS NET LLC,US
+  reverse: 209-188-121-101.taosnet.com
+- country: PL
+  ip: 153.19.1.254
+  provider: TASK-AS Technical University of Gdansk, Academic Computer Center TASK
+  reverse: rabarbar.ug.edu.pl
+- country: US
+  ip: 209.213.72.9
+  provider: TCIX - Meganet Communications
+  reverse: ns1.bos.ma.meganet.net
+- country: DK
+  ip: 193.89.248.1
+  provider: TDC TDC Data Networks
+  reverse: ns.christiania.org
+- country: DK
+  ip: 80.199.84.238
+  provider: TDC TDC Data Networks
+  reverse: ns3.avalonia.com
+- country: DK
+  ip: 194.239.164.25
+  provider: TDC TDC Data Networks
+  reverse: ns.molgaard.dk
+- country: DK
+  ip: 62.243.190.8
+  provider: TDC TDC Data Networks
+  reverse: ns2.avalonia.com
+- country: DK
+  ip: 193.89.221.124
+  provider: TDC TDC Data Networks
+  reverse: ns2.bang-olufsen.dk
+- country: DK
+  ip: 62.243.190.9
+  provider: TDC TDC Data Networks
+  reverse: ns4.avalonia.com
+- country: DK
+  ip: 62.243.190.7
+  provider: TDC TDC Data Networks
+  reverse: ns1.avalonia.com
+- country: DK
+  ip: 193.89.221.2
+  provider: TDC TDC Data Networks
+  reverse: ns.bang-olufsen.dk
+- country: FR
+  ip: 91.197.165.11
+  provider: TDFPMM SMARTJOG SAS
+  reverse: fw-2.tdf-pmm.net
+- country: FR
+  ip: 91.197.164.11
+  provider: TDFPMM SMARTJOG SAS
+  reverse: fw-1.tdf-pmm.net
+- country: US
+  ip: 216.170.153.146
+  provider: TDS-AS - TDS TELECOM
+  reverse: ns8.dns.tds.net
+- country: US
+  ip: 216.165.129.158
+  provider: TDS-AS - TDS TELECOM
+  reverse: ns7.dns.tds.net
+- country: RU
+  ip: 91.212.64.254
+  provider: TECCO-AS Tecco Company Ltd
+  reverse: mail.tecco.ru
+- country: US
+  ip: 66.199.31.131
+  provider: TEKLINKS - TekLinks, Inc.
+  reverse: ns3.teklinks.com
+- country: CA
+  ip: 69.165.175.234
+  provider: TEKSAVVY - TekSavvy Solutions, Inc.,CA
+  reverse: octroiyor.mantor.org
+- country: CA
+  ip: 192.171.61.157
+  provider: TEKSAVVY - TekSavvy Solutions, Inc.,CA
+  reverse: 192-171-61-157.cpe.pppoe.ca
+- country: ES
+  ip: 188.171.14.119
+  provider: TELECABLE Telecable de Asturias,SA,ES
+  reverse: cm-188-171-14-119.telecable.es
+- country: ES
+  ip: 188.171.11.58
+  provider: TELECABLE Telecable de Asturias,SA,ES
+  reverse: cm-188-171-11-58.telecable.es
+- country: GB
+  ip: 89.107.16.2
+  provider: TELECITY-LON TELECITYGROUP INTERNATIONAL LIMITED
+  reverse: ns0.ukgrid.net
+- country: RU
+  ip: 89.185.75.244
+  provider: TELECOM_MANAGEMENT Telecom Management Company Limited
+  reverse: ns2.nm-s.ru
+- country: RU
+  ip: 89.185.75.243
+  provider: TELECOM_MANAGEMENT Telecom Management Company Limited
+  reverse: ns1.nm-s.ru
+- country: RU
+  ip: 62.177.42.174
+  provider: TELECON-AS LTD Telecon
+  reverse: ns.permtelecon.ru
+- country: BR
+  ip: 201.69.193.143
+  provider: TELEFNICA BRASIL S.A,BR
+  reverse: 201-69-193-143.dial-up.telesp.net.br
+- country: ES
+  ip: 194.179.1.101
+  provider: TELEFONICA-DATA-ESPANA TELEFONICA DE ESPANA
+  reverse: 101.red-194-179-1.static.ccgg.telefonica.net
+- country: ES
+  ip: 213.0.77.5
+  provider: TELEFONICA-DATA-ESPANA TELEFONICA DE ESPANA
+  reverse: netra1.infotelecom.es
+- country: ES
+  ip: 194.179.109.10
+  provider: TELEFONICA-DATA-ESPANA TELEFONICA DE ESPANA
+  reverse: dns.caixacatalunya.es
+- country: ES
+  ip: 195.76.198.10
+  provider: TELEFONICA_DE_ESPANA TELEFONICA DE ESPANA,ES
+  reverse: bvweb.valentine.es
+- country: ES
+  ip: 195.77.54.249
+  provider: TELEFONICA_DE_ESPANA TELEFONICA DE ESPANA,ES
+  reverse: 195.77.54.249
+- country: ES
+  ip: 5.35.221.126
+  provider: TELELORCA-AS Lorca TV Sol S.L,ES
+  reverse: 5.35.221.126
+- country: DE
+  ip: 109.73.52.12
+  provider: TELEMAXX TelemaxX Telekommunikation GmbH
+  reverse: ns2.topdns.ch
+- country: DE
+  ip: 109.73.52.11
+  provider: TELEMAXX TelemaxX Telekommunikation GmbH
+  reverse: ns1.topdns.ch
+- country: RU
+  ip: 81.200.81.10
+  provider: TELEMEDNET TELEMEDNET - net of Center Children Telemedicin in Moscow
+  reverse: ftpserver.cdt.ru
+- country: RU
+  ip: 81.22.204.35
+  provider: TELESET-KAZAN Teleset CJSC
+  reverse: zero.hq.telecet.com
+- country: EU
+  ip: 80.239.175.201
+  provider: TELIANET TeliaSonera International Carrier
+  reverse: 80.239.175.201
+- country: EU
+  ip: 80.239.175.200
+  provider: TELIANET TeliaSonera International Carrier
+  reverse: ns2.adnsch.com
+- country: EU
+  ip: 80.239.175.202
+  provider: TELIANET TeliaSonera International Carrier
+  reverse: 80.239.175.202
+- country: EU
+  ip: 80.239.207.176
+  provider: TELIANET TeliaSonera International Carrier
+  reverse: ns1.pokoeln.de
+- country: EU
+  ip: 80.239.207.200
+  provider: TELIANET TeliaSonera International Carrier
+  reverse: ns1.adnsch.com
+- country: EU
+  ip: 80.239.175.131
+  provider: TELIANET TeliaSonera International Carrier
+  reverse: os22.deltastar-online.de
+- country: CA
+  ip: 216.198.139.69
+  provider: TELUS-3 - TELUS MOBILITY
+  reverse: ns2.clearnet.com
+- country: CA
+  ip: 216.198.139.68
+  provider: TELUS-3 - TELUS MOBILITY
+  reverse: ns1.clearnet.com
+- country: US
+  ip: 67.214.64.27
+  provider: TELWEST-NETWORK-SVCS-STATIC - TEL WEST COMMUNICATIONS LLC
+  reverse: dns1.telwestonline.com
+- country: GB
+  ip: 217.72.116.201
+  provider: TFMNET-AS TFM NETWORKS LIMITED,GB
+  reverse: 217.72.116.201
+- country: TW
+  ip: 180.177.94.33
+  provider: TFN-TW Taiwan Fixed Network, Telco and Network Service Provider.,TW
+  reverse: 180-177-94-33.dynamic.kbronet.com.tw
+- country: US
+  ip: 207.44.226.173
+  provider: THEPLANET-AS - ThePlanet.com Internet Services, Inc.
+  reverse: ns2.listau.com
+- country: RU
+  ip: 176.193.126.155
+  provider: TI-AS Net By Net Holding LLC,RU
+  reverse: ip-176-193-126-155.bb.netbynet.ru
+- country: GB
+  ip: 213.131.178.10
+  provider: TIMICO Timico Ltd Autonomous System
+  reverse: ns.flowsol.co.uk
+- country: GB
+  ip: 81.170.88.42
+  provider: TISCALI-UK Tiscali UK Limited,GB
+  reverse: 81-170-88-42.dynamic.dsl.as9105.com
+- country: PL
+  ip: 91.192.56.2
+  provider: TKPSA-AS TKP S.A. is 3S.pl network operator.
+  reverse: dns.omi4.net
+- country: PL
+  ip: 213.199.195.20
+  provider: TKTELEKOM-AS TK Telekom sp. z o.o.
+  reverse: host.nsn.pl
+- country: PL
+  ip: 213.199.195.5
+  provider: TKTELEKOM-AS TK Telekom sp. z o.o.
+  reverse: dns.nsn.pl
+- country: DE
+  ip: 213.178.66.111
+  provider: TNG-AS ennit server GmbH
+  reverse: dns1.tng.de
+- country: DE
+  ip: 213.178.66.112
+  provider: TNG-AS ennit server GmbH
+  reverse: dns2.tng.de
+- country: AU
+  ip: 203.219.45.219
+  provider: TPG-INTERNET-AP TPG Telecom Limited,AU
+  reverse: 203-219-45-219.static.tpgi.com.au
+- country: AU
+  ip: 60.241.64.224
+  provider: TPG-INTERNET-AP TPG Telecom Limited,AU
+  reverse: 60-241-64-224.static.tpgi.com.au
+- country: AU
+  ip: 60.242.110.8
+  provider: TPG-INTERNET-AP TPG Telecom Limited,AU
+  reverse: 60-242-110-8.tpgi.com.au
+- country: AU
+  ip: 14.201.171.188
+  provider: TPG-INTERNET-AP TPG Telecom Limited,AU
+  reverse: 14-201-171-188.static.tpgi.com.au
+- country: AU
+  ip: 14.203.108.78
+  provider: TPG-INTERNET-AP TPG Telecom Limited,AU
+  reverse: 14-203-108-78.static.tpgi.com.au
+- country: AU
+  ip: 203.213.59.186
+  provider: TPG-INTERNET-AP TPG Telecom Limited,AU
+  reverse: 203-213-59-186.static.tpgi.com.au
+- country: AU
+  ip: 110.175.160.129
+  provider: TPG-INTERNET-AP TPG Telecom Limited,AU
+  reverse: 110-175-160-129.static.tpgi.com.au
+- country: PL
+  ip: 213.25.159.2
+  provider: TPNET Telekomunikacja Polska S.A.
+  reverse: nsne.wist.com.pl
+- country: PL
+  ip: 195.116.55.69
+  provider: TPNET Telekomunikacja Polska S.A.
+  reverse: ns2.internetia.pl
+- country: FR
+  ip: 193.56.127.9
+  provider: TRANSIT-VPN-AS Orange S.A.
+  reverse: fr10.cat.fr
+- country: DE
+  ip: 212.28.34.90
+  provider: TRANSKOM Transkom Kommunikationsnetzwerke GmbH
+  reverse: ns2.transkom.net
+- country: RU
+  ip: 80.237.54.26
+  provider: TRANSTELECOM TransTelecom
+  reverse: ms2.chte.ru
+- country: RU
+  ip: 80.237.54.27
+  provider: TRANSTELECOM TransTelecom
+  reverse: ms1.chte.ru
+- country: RU
+  ip: 62.33.183.254
+  provider: TRANSTELECOM TransTelecom
+  reverse: ns4.astrakhan.ru
+- country: RU
+  ip: 80.237.112.10
+  provider: TRANSTELECOM TransTelecom
+  reverse: ns1.kna.ru
+- country: RU
+  ip: 62.33.175.222
+  provider: TRANSTELECOM TransTelecom
+  reverse: etc-svyaz-gw.drogovozov.ru
+- country: RU
+  ip: 62.33.47.253
+  provider: TRANSTELECOM TransTelecom
+  reverse: ns2.mobukom.ru
+- country: US
+  ip: 208.70.22.22
+  provider: TRIAD-TELECOM - Triad Telecom, Inc.
+  reverse: dns1.triadtelecom.com
+- country: TH
+  ip: 203.144.207.29
+  provider: TRUEINTERNET-AS-AP TRUE INTERNET Co.,Ltd.
+  reverse: dns1.asianet.co.th
+- country: RU
+  ip: 212.41.32.66
+  provider: TTK-AS OJSC Kompanya Troitsk Telecom
+  reverse: dns.trtk.ru
+- country: TR
+  ip: 85.103.161.241
+  provider: TTNET Turk Telekomunikasyon Anonim Sirketi,TR
+  reverse: 85.103.161.241.dynamic.ttnet.com.tr
+- country: RU
+  ip: 78.31.96.3
+  provider: TVERLINE-AS TverLine Ltd.
+  reverse: ns2.tverline.ru
+- country: RU
+  ip: 78.31.96.2
+  provider: TVERLINE-AS TverLine Ltd.
+  reverse: ns1.tverline.ru
+- country: PL
+  ip: 195.140.236.250
+  provider: TVK-WROC-AS TVK Tel-Ka Wroclaw
+  reverse: ns1.trzebnica.net
+- country: US
+  ip: 168.215.165.186
+  provider: TWTC - tw telecom holdings, inc.
+  reverse: ns1.snan.twtelecom.net
+- country: US
+  ip: 64.132.94.250
+  provider: TWTC - tw telecom holdings, inc.
+  reverse: ns2.twtelecom.net
+- country: US
+  ip: 168.215.210.50
+  provider: TWTC - tw telecom holdings, inc.
+  reverse: ns1.orng.twtelecom.net
+- country: US
+  ip: 168.215.99.12
+  provider: TWTC - tw telecom holdings, inc.,US
+  reverse: plexicomm-168-215-99-12.plexicomm.net
+- country: PL
+  ip: 195.66.68.2
+  provider: TZMO-AS Torunskie Zaklady Materialow Opatrunkowych S.A.
+  reverse: tzmo-sa.tzmo.com.pl
+- country: BR
+  ip: 177.47.60.115
+  provider: Telecomunicaes Nordeste Ltda.,BR
+  reverse: 1774760115.tvninternet.com.br
+- country: BR
+  ip: 200.159.72.250
+  provider: Telefonica Data S.A.,BR
+  reverse: 200-159-72-250.customer.tdatabrasil.net.br
+- country: MX
+  ip: 207.248.32.2
+  provider: Television Internacional, S.A. de C.V.
+  reverse: ns.intercable.net
+- country: CA
+  ip: 137.82.1.1
+  provider: UBC - University of British Columbia
+  reverse: hub.ubc.ca
+- country: US
+  ip: 156.154.71.22
+  provider: ULTRADNS - NeuStar, Inc.
+  reverse: 156.154.71.22
+- country: US
+  ip: 156.154.71.1
+  provider: ULTRADNS - NeuStar, Inc.
+  reverse: rdns2.ultradns.net
+- country: US
+  ip: 156.154.70.1
+  provider: ULTRADNS - NeuStar, Inc.
+  reverse: rdns1.ultradns.net
+- country: US
+  ip: 156.154.70.22
+  provider: ULTRADNS - NeuStar, Inc.
+  reverse: 156.154.70.22
+- country: GB
+  ip: 62.149.40.41
+  provider: ULTRASPEED Six Degrees Managed Data Limited,GB
+  reverse: mailserver2.acluster.net
+- country: US
+  ip: 141.211.125.15
+  provider: UMICH-AS-5 - University of Michigan
+  reverse: twelvemonkeys.mr.itd.umich.edu
+- country: US
+  ip: 141.211.125.17
+  provider: UMICH-AS-5 - University of Michigan
+  reverse: lifeofbrian.mr.itd.umich.edu
+- country: US
+  ip: 141.211.144.17
+  provider: UMICH-AS-5 - University of Michigan
+  reverse: timebandits.mr.itd.umich.edu
+- country: US
+  ip: 141.211.144.15
+  provider: UMICH-AS-5 - University of Michigan
+  reverse: jabberwocky.mr.itd.umich.edu
+- country: ES
+  ip: 62.36.225.150
+  provider: UNI2-AS France Telecom Espana SA
+  reverse: dnscache1.orange.es
+- country: ES
+  ip: 62.37.228.20
+  provider: UNI2-AS France Telecom Espana SA
+  reverse: m2dnscache.net.uni2.es
+- country: ES
+  ip: 62.37.225.57
+  provider: UNI2-AS France Telecom Espana SA
+  reverse: dns2.comtenidos.com
+- country: BR
+  ip: 187.19.112.5
+  provider: UNIDASNET COMUNICAES LTDA,BR
+  reverse: 187.19.112.5
+- country: GB
+  ip: 217.196.1.5
+  provider: UNITRON-AS Unitron Systems & Development LTD Autonomous System
+  reverse: ns.userve.net
+- country: US
+  ip: 129.7.1.6
+  provider: UNIVERSITY-OF-HOUSTON - University of Houston
+  reverse: fir.cc.uh.edu
+- country: US
+  ip: 129.7.1.1
+  provider: UNIVERSITY-OF-HOUSTON - University of Houston
+  reverse: walnut.cc.uh.edu
+- country: US
+  ip: 69.67.254.2
+  provider: USADATANET - US Data Net
+  reverse: ns1.usadatanet.com
+- country: US
+  ip: 216.196.64.149
+  provider: UTMA - United Telephone Mutual Aid Corporation,US
+  reverse: 216.196.64.149
+- country: US
+  ip: 198.6.1.3
+  provider: UUNET - MCI Communications Services, Inc. d/b/a Verizon Business
+  reverse: cache02.ns.uu.net
+- country: US
+  ip: 198.6.1.4
+  provider: UUNET - MCI Communications Services, Inc. d/b/a Verizon Business
+  reverse: cache03.ns.uu.net
+- country: US
+  ip: 198.6.1.5
+  provider: UUNET - MCI Communications Services, Inc. d/b/a Verizon Business
+  reverse: cache04.ns.uu.net
+- country: US
+  ip: 198.6.1.146
+  provider: UUNET - MCI Communications Services, Inc. d/b/a Verizon Business
+  reverse: cache08.ns.uu.net
+- country: US
+  ip: 198.6.1.122
+  provider: UUNET - MCI Communications Services, Inc. d/b/a Verizon Business
+  reverse: cache06.ns.uu.net
+- country: US
+  ip: 198.6.1.2
+  provider: UUNET - MCI Communications Services, Inc. d/b/a Verizon Business
+  reverse: cache01.ns.uu.net
+- country: US
+  ip: 198.6.1.142
+  provider: UUNET - MCI Communications Services, Inc. d/b/a Verizon Business
+  reverse: cache07.ns.uu.net
+- country: US
+  ip: 198.6.1.1
+  provider: UUNET - MCI Communications Services, Inc. d/b/a Verizon Business
+  reverse: cache00.ns.uu.net
+- country: US
+  ip: 142.77.2.36
+  provider: UUNET - MCI Communications Services, Inc. d/b/a Verizon Business
+  reverse: cache02.ca-dns.net
+- country: US
+  ip: 198.6.1.6
+  provider: UUNET - MCI Communications Services, Inc. d/b/a Verizon Business
+  reverse: dialcache060.ns.uu.net
+- country: US
+  ip: 198.6.1.195
+  provider: UUNET - MCI Communications Services, Inc. d/b/a Verizon Business
+  reverse: cache05.ns.uu.net
+- country: US
+  ip: 72.84.234.100
+  provider: UUNET - MCI Communications Services, Inc. d/b/a Verizon Business,US
+  reverse: static-72-84-234-100.rcmdva.fios.verizon.net
+- country: US
+  ip: 71.191.213.113
+  provider: UUNET - MCI Communications Services, Inc. d/b/a Verizon Business,US
+  reverse: pool-71-191-213-113.washdc.fios.verizon.net
+- country: US
+  ip: 192.76.144.66
+  provider: UUNET-INT - MCI Communications Services, Inc. d/b/a Verizon Business
+  reverse: cache0701.ns.eu.uu.net
+- country: MX
+  ip: 148.233.151.8
+  provider: Uninet S.A. de C.V.
+  reverse: 148.233.151.8
+- country: MX
+  ip: 148.233.151.6
+  provider: Uninet S.A. de C.V.
+  reverse: customer-148-233-151-6.uninet.net.mx
+- country: BR
+  ip: 200.221.11.100
+  provider: Universo Online S.A.
+  reverse: brahms.uol.com.br
+- country: US
+  ip: 198.82.247.34
+  provider: VA-TECH-AS - Virginia Polytechnic Institute and State Univ.
+  reverse: yardbird.cns.vt.edu
+- country: GB
+  ip: 88.211.111.210
+  provider: VAIONI Vaioni Group AS,GB
+  reverse: u88-211-111-210.cust.vaioni.com.111.211.88.in-addr.arpa
+- country: US
+  ip: 199.193.138.18
+  provider: VALUTEL-COMM-INC - ValuTel Communications, Inc.,US
+  reverse: nm-abqpop-g1-199-193-138-18.vci-valutel.com
+- country: DE
+  ip: 149.154.159.12
+  provider: VELIANET-AS velia.net Internetdienste GmbH
+  reverse: de.godau.eu
+- country: DE
+  ip: 213.30.253.65
+  provider: VERSATEL Versatel Deutschland GmbH
+  reverse: mail.inxmail.de
+- country: CA
+  ip: 205.151.222.251
+  provider: VIDEOTRON - Videotron Telecom Ltee
+  reverse: dns4.videotron.net
+- country: CA
+  ip: 205.151.222.250
+  provider: VIDEOTRON - Videotron Telecom Ltee
+  reverse: dns3.videotron.net
+- country: CA
+  ip: 184.161.130.48
+  provider: VIDEOTRON - Videotron Telecom Ltee,CA
+  reverse: modemcable048.130-161-184.mc.videotron.ca
+- country: CA
+  ip: 205.233.198.9
+  provider: VIDEOTRON - Videotron Telecom Ltee,CA
+  reverse: camanager.netc.net
+- country: US
+  ip: 64.254.99.13
+  provider: VIRTELA-NET-VMABOS1 Virtela Communications
+  reverse: ns3.virtela.net
+- country: BR
+  ip: 177.128.192.117
+  provider: VOANET Telecomunicaes Ltda.,BR
+  reverse: 177.128.192.117.voanettelecom.com.br
+- country: DE
+  ip: 145.253.2.7
+  provider: VODANET Vodafone GmbH
+  reverse: 145.253.2.7
+- country: DE
+  ip: 195.50.157.2
+  provider: VODANET Vodafone GmbH
+  reverse: ns01.azeti.net
+- country: DE
+  ip: 145.253.2.6
+  provider: VODANET Vodafone GmbH
+  reverse: 145.253.2.6
+- country: DE
+  ip: 193.189.114.254
+  provider: VODANET Vodafone GmbH
+  reverse: ip254.net02.communicode.net
+- country: DE
+  ip: 88.67.83.157
+  provider: VODANET Vodafone GmbH,DE
+  reverse: dslb-088-067-083-157.088.067.pools.vodafone-ip.de
+- country: RU
+  ip: 89.249.224.1
+  provider: VOL-AS Vist on-line AS
+  reverse: relay-1.vistcom.ru
+- country: EU
+  ip: 193.22.119.195
+  provider: VOZTELECOM VozTelecom Network
+  reverse: srv-es-01.voztelecom.net
+- country: ES
+  ip: 193.238.54.87
+  provider: VOZTELECOM VozTelecom Sistemas, S.L.,ES
+  reverse: 193-238-54-87.static.voztelecom.net
+- country: RU
+  ip: 193.219.125.2
+  provider: VSS-SAMARA-AS OOO _VolgaSvyazService_
+  reverse: ns1.vss-63.ru
+- country: CH
+  ip: 212.40.5.50
+  provider: VTX-NETWORK VTX Services SA
+  reverse: ns2.datacomm.ch
+- country: US
+  ip: 206.124.65.253
+  provider: VZN-VOL1 - Verizon Online LLC
+  reverse: boingo.gte.net
+- country: US
+  ip: 68.179.203.94
+  provider: WA-K20 - Washington State K-20 Telecommunications Network
+  reverse: ns2.wa-k20.net
+- country: US
+  ip: 216.186.27.15
+  provider: WA-K20 - Washington State K-20 Telecommunications Network
+  reverse: ns1.ohsd.net
+- country: DE
+  ip: 195.214.240.136
+  provider: WAYCOM-AS Waycom International SARL
+  reverse: ns2.waycom.net
+- country: DK
+  ip: 89.233.43.71
+  provider: WEBPARTNER WEBPARTNER A/S is a Danish Internet Service Provider
+  reverse: ns1.censurfridns.dk
+- country: GB
+  ip: 77.95.37.88
+  provider: WILDCARD-AS Wildcard UK Limited,GB
+  reverse: mail.sangersmaidstone.co.uk
+- country: US
+  ip: 64.140.243.112
+  provider: WORLDPATH-AS - WorldPath Internet Services
+  reverse: ns2.lanlink.net
+- country: DE
+  ip: 213.209.122.11
+  provider: WTNET-AS wilhelm.tel GmbH Norderstedt
+  reverse: ns1.gid24.de
+- country: US
+  ip: 66.216.18.222
+  provider: WVFIBER-1 - WV FIBER
+  reverse: 66.216.18.222
+- country: CA
+  ip: 207.253.193.149
+  provider: XITTEL-AS - Telecommunications Xittel inc.,CA
+  reverse: 207.253.193.149
+- country: US
+  ip: 67.107.71.186
+  provider: XO-AS15 - XO Communications
+  reverse: 67.107.71.186.ptr.us.xo.net
+- country: US
+  ip: 67.90.152.122
+  provider: XO-AS15 - XO Communications
+  reverse: ip67-90-152-122.z152-90-67.customer.algx.net
+- country: RU
+  ip: 77.88.8.88
+  provider: YANDEX Yandex LLC
+  reverse: safe.dns.yandex.ru
+- country: GB
+  ip: 82.69.169.138
+  provider: ZEN-AS Zen Internet Ltd,GB
+  reverse: 82-69-169-138.dsl.in-addr.zen.co.uk
+- country: PL
+  ip: 195.137.162.149
+  provider: ZEORK-AS PGE Dystrybucja S.A.
+  reverse: firebird.meskonet.pl
+- country: RU
+  ip: 5.134.218.242
+  provider: ZVEZDATEL-AS Zvezda Telecom ltd.,RU
+  reverse: 5.134.218.242
+- country: KR
+  ip: 219.250.36.130
+  provider: broadNnet-KR, SK Broadband Co Ltd
+  reverse: bns2.hananet.net
+- country: KR
+  ip: 210.220.163.82
+  provider: broadNnet-KR, SK Broadband Co Ltd
+  reverse: bns1.hananet.net
