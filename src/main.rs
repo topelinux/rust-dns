@@ -4,28 +4,55 @@ extern crate futures;
 extern crate tokio;
 extern crate yaml_rust;
 extern crate indicatif;
+extern crate getopts;
 
-use indicatif::ProgressBar;
 use std::sync::{Arc, Mutex};
 use std::fs::File;
+use std::env;
 use std::net::Ipv4Addr;
 use std::io::prelude::*;
 use c_ares_resolver::{CAresFuture, FutureResolver, Options};
 use futures::future::Future;
 use futures::stream::FuturesUnordered;
 use futures::Stream;
+use indicatif::ProgressBar;
+use getopts::Options as AppOptions;
 
 use yaml_rust::{YamlLoader};
 
-fn gen_future_resolve(server: &str) -> CAresFuture<c_ares::AResults> {
+fn gen_future_resolve(server: &str, domain: &str) -> CAresFuture<c_ares::AResults> {
     let mut option = Options::new();
     option.set_timeout(2000);
     let resolver = FutureResolver::with_options(option).expect("Failed to create resolver");
     resolver.set_servers(&[server]).expect("Fail to set server");
-    resolver.query_a("github.com")
+    resolver.query_a(domain)
+}
+
+fn usage(opts: AppOptions) {
+    let brief = ("Usage: rust-dns <domain>").to_string();
+    print!("{}", opts.usage(&brief));
 }
 
 fn main() {
+    let mut opts = AppOptions::new();
+    opts.optflag("h", "help", "Print this help menu");
+    let matches = match opts.parse(env::args().skip(1)) {
+        Ok(m) => m,
+        Err(f) => panic!(f.to_string()),
+    };
+
+    if matches.opt_present("h") {
+        usage(opts);
+        return;
+    }
+
+    let domain = if !matches.free.is_empty() {
+        matches.free[0].clone()
+    } else {
+        usage(opts);
+        return;
+    };
+
     let mut servers = Vec::new();
     let mut f = File::open("resolver-list.yml").unwrap();
     let mut s = String::new();
@@ -44,10 +71,10 @@ fn main() {
     let pb = Arc::new(Mutex::new(ProgressBar::new(count as u64)));
     let pb1 = Arc::clone(&pb);
 
-    println!("Will Query {} servers", servers.len());
+    println!("Will Query {} servers for domain {}", servers.len(), domain);
     servers
         .iter()
-        .for_each(|server| future_set.push(gen_future_resolve(server)));
+        .for_each(|server| future_set.push(gen_future_resolve(server, &domain)));
 
     let future = future_set
         .then(move |ret| {
@@ -74,7 +101,10 @@ fn main() {
 
         to_show.sort();
         to_show.dedup();
-        println!("to show is {:?}", to_show);
+        println!("IPs List: ");
+        to_show.iter().for_each(|ip| {
+            println!("\t{}", ip);
+        });
     });
     tokio::run(task);
 }
