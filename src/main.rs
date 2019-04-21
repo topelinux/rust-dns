@@ -6,6 +6,7 @@ extern crate indicatif;
 extern crate tokio;
 extern crate yaml_rust;
 
+use c_ares::Error;
 use c_ares_resolver::{CAresFuture, FutureResolver, Options};
 use futures::future::Future;
 use futures::stream::FuturesUnordered;
@@ -17,13 +18,13 @@ use std::fs::File;
 use std::io::prelude::*;
 use std::net::Ipv4Addr;
 use std::sync::{Arc, Mutex};
-
 use yaml_rust::YamlLoader;
 
 struct ProgressState {
     server_num: usize,
     response_num: usize,
     timeout_num: usize,
+    connect_refused_num: usize,
     pb: ProgressBar,
 }
 
@@ -33,10 +34,12 @@ impl ProgressState {
             server_num,
             response_num: 0,
             timeout_num: 0,
-            pb: ProgressBar::new(server_num as u64)
+            connect_refused_num: 0,
+            pb: ProgressBar::new(server_num as u64),
         }
     }
 }
+
 fn gen_future_resolve(server: &str, domain: &str) -> CAresFuture<c_ares::AResults> {
     let mut option = Options::new();
     option.set_timeout(2000);
@@ -52,6 +55,7 @@ fn usage(opts: AppOptions) {
 
 fn main() {
     let mut opts = AppOptions::new();
+
     opts.optflag("h", "help", "Print this help menu");
     let matches = match opts.parse(env::args().skip(1)) {
         Ok(m) => m,
@@ -102,9 +106,17 @@ fn main() {
                 Ok(item) => {
                     state.response_num += 1;
                     Ok(Some(item))
-                },
-                Err(_e) => {
-                    state.timeout_num += 1;
+                }
+                Err(err) => {
+                    match err {
+                        Error::ETIMEOUT => {
+                            state.timeout_num += 1;
+                        }
+                        Error::ECONNREFUSED => {
+                            state.connect_refused_num += 1;
+                        }
+                        _ => {}
+                    }
                     //println!("err is {}", _e);
                     Ok(None)
                 }
@@ -129,6 +141,7 @@ fn main() {
         println!("Query {} servers", state.server_num);
         println!("repsonse servers: {}", state.response_num);
         println!("timeout servers: {}", state.timeout_num);
+        println!("connect refused servers: {}", state.connect_refused_num);
         println!("IPs List: ");
         to_show.iter().for_each(|ip| {
             println!("\t{}", ip);
