@@ -20,6 +20,23 @@ use std::sync::{Arc, Mutex};
 
 use yaml_rust::YamlLoader;
 
+struct ProgressState {
+    server_num: usize,
+    response_num: usize,
+    timeout_num: usize,
+    pb: ProgressBar,
+}
+
+impl ProgressState {
+    fn new(server_num: usize) -> Self {
+        ProgressState {
+            server_num,
+            response_num: 0,
+            timeout_num: 0,
+            pb: ProgressBar::new(server_num as u64)
+        }
+    }
+}
 fn gen_future_resolve(server: &str, domain: &str) -> CAresFuture<c_ares::AResults> {
     let mut option = Options::new();
     option.set_timeout(2000);
@@ -68,8 +85,8 @@ fn main() {
     let mut future_set = FuturesUnordered::<CAresFuture<c_ares::AResults>>::new();
 
     let count = servers.len();
-    let pb = Arc::new(Mutex::new(ProgressBar::new(count as u64)));
-    let pb1 = Arc::clone(&pb);
+    let progress_state = Arc::new(Mutex::new(ProgressState::new(count)));
+    let processs_copy = Arc::clone(&progress_state);
 
     println!("Will Query {} servers for domain {}", servers.len(), domain);
     servers
@@ -78,11 +95,16 @@ fn main() {
 
     let future = future_set
         .then(move |ret| {
-            pb1.lock().unwrap().inc(1);
+            let mut state = processs_copy.lock().unwrap();
 
+            state.pb.inc(1);
             match ret {
-                Ok(item) => Ok(Some(item)),
+                Ok(item) => {
+                    state.response_num += 1;
+                    Ok(Some(item))
+                },
                 Err(_e) => {
+                    state.timeout_num += 1;
                     //println!("err is {}", _e);
                     Ok(None)
                 }
@@ -92,7 +114,9 @@ fn main() {
         .collect();
 
     let task = future.map(move |items| {
-        pb.lock().unwrap().finish();
+        let state = progress_state.lock().unwrap();
+
+        state.pb.finish();
         let result: Vec<c_ares::AResult> = items.iter().flat_map(|item| item.into_iter()).collect();
 
         let mut to_show = result
@@ -102,6 +126,9 @@ fn main() {
 
         to_show.sort();
         to_show.dedup();
+        println!("Query {} servers", state.server_num);
+        println!("repsonse servers: {}", state.response_num);
+        println!("timeout servers: {}", state.timeout_num);
         println!("IPs List: ");
         to_show.iter().for_each(|ip| {
             println!("\t{}", ip);
