@@ -19,6 +19,7 @@ use std::io::prelude::*;
 use std::net::Ipv4Addr;
 use std::sync::{Arc, Mutex};
 use yaml_rust::YamlLoader;
+use std::collections::HashMap;
 
 struct ProgressState {
     server_num: usize,
@@ -131,20 +132,29 @@ fn main() {
         state.pb.finish();
         let result: Vec<c_ares::AResult> = items.iter().flat_map(|item| item.into_iter()).collect();
 
-        let mut to_show = result
+        let to_show = result
             .into_iter()
             .map(|results| results.ipv4())
             .collect::<Vec<Ipv4Addr>>();
 
-        to_show.sort();
-        to_show.dedup();
+        let frequencies = to_show.iter().fold(HashMap::new(), |mut freqs, value| {
+            *freqs.entry(value).or_insert(1) += 1;
+            freqs
+        });
+
+        let mut ips = frequencies
+            .into_iter()
+            .collect::<Vec<(&Ipv4Addr, i32)>>();
+
+        ips.sort_by(|(_, count_a), (_, count_b)| count_b.cmp(count_a));
+
         println!("Query {} servers", state.server_num);
-        println!("repsonse servers: {}", state.response_num);
-        println!("timeout servers: {}", state.timeout_num);
-        println!("connect refused servers: {}", state.connect_refused_num);
-        println!("IPs List: ");
-        to_show.iter().for_each(|ip| {
-            println!("\t{}", ip);
+        println!("Repsonse servers: {}", state.response_num);
+        println!("Timeout servers: {}", state.timeout_num);
+        println!("Connect refused servers: {}", state.connect_refused_num);
+        println!("IPs List: IpAddr\t count");
+        ips.iter().for_each(|(ip, num)| {
+            println!("\t{}\t {}", ip, num);
         });
     });
     tokio::run(task);
