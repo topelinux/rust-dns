@@ -143,10 +143,10 @@ fn main() {
         });
 
         let mut ips = frequencies
-            .into_iter()
-            .collect::<Vec<(&Ipv4Addr, i32)>>();
+            .iter()
+            .collect::<Vec<(&&Ipv4Addr, &i32)>>();
 
-        ips.sort_by(|(_, count_a), (_, count_b)| count_b.cmp(count_a));
+        ips.sort_by(|&(_, count_a), &(_, count_b)| count_b.cmp(count_a));
 
         println!("Query {} servers", state.server_num);
         println!("Repsonse servers: {}", state.response_num);
